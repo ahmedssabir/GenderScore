@@ -1,0 +1,769 @@
+[CLS] a [MASK]  in a black shirt and a green tie. [SEP],man
+[CLS] a [MASK]  taking a picture of a snowy mountain range. [SEP],photographer
+[CLS] a [MASK] riding a snowboard down a snow covered slope. [SEP],man
+[CLS] a [MASK]  sitting on a bench surrounded by pigeons. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  sitting on a toilet in a bathroom. [SEP],man
+[CLS] a [MASK]  taking a picture of a pizza with a camera. [SEP],man
+[CLS] a [MASK]  and a little girl sitting on a motorcycle. [SEP],man
+[CLS] a [MASK]  standing in front of two giraffes. [SEP],man
+[CLS] a [MASK] sitting on a bed using a laptop computer. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  in a chef's hat holding a hot dog. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  and a woman standing in front of microphones. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  standing on a sidewalk talking on a cell phone. [SEP],man
+[CLS] a [MASK]  riding a skateboard down the side of a street. [SEP],girl
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  and woman sitting in a chair with a dog. [SEP],man
+[CLS] a [MASK]  and a woman sitting on a couch in a living room. [SEP],man
+[CLS] a [MASK]  laying in bed with a cat on top of him. [SEP],man
+[CLS] a [MASK]  standing in front of a bird cage. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  on a bicycle leaning against a wall. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  sitting on a chair using a laptop computer. [SEP],man
+[CLS] a [MASK]  flying through the air while riding a snowboard. [SEP],man
+[CLS] a [MASK]  standing on a tennis court holding a racquet. [SEP],man
+[CLS] a [MASK]  and two boys sitting at a table. [SEP],girl
+[CLS] a [MASK]  sitting on a bench reading a book. [SEP],man
+[CLS] a [MASK]  standing in front of a traffic light. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  in a suit and tie standing in front of a wall. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  walking on the beach with a surfboard. [SEP],girl
+[CLS] a [MASK]  holding an umbrella in the dark. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  sitting on a chair playing a video game. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  riding a white horse in a fenced in area. [SEP],man
+[CLS] a [MASK]  sitting at a desk with a laptop and pen. [SEP],man
+[CLS] a [MASK]  wearing a red bandana looks at a herd of horses. [SEP],man
+[CLS] a [MASK]  standing in front of a small airplane. [SEP],man
+[CLS] a [MASK]  hitting a tennis ball with a racquet. [SEP],man
+[CLS] a [MASK]  and a woman sitting at a table with chopsticks. [SEP],man
+[CLS] a [MASK]  standing in a kitchen next to a laptop. [SEP],man
+a military truck with [CLS] a [MASK]  standing on top of it. [SEP],soldier
+[CLS] a [MASK]  holding a surfboard on top of a rocky beach. [SEP],man
+[CLS] a [MASK]  sitting at a table in a kitchen. [SEP],woman
+[CLS] a [MASK]  riding on the back of a brown horse. [SEP],man
+[CLS] a [MASK]  and a woman holding wine glasses. [SEP],man
+[CLS] a [MASK]  is throwing a frisbee in the woods. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  standing on a tennis court holding a racquet. [SEP],man
+[CLS] a [MASK]  shearing a sheep with a group of people watching. [SEP],farmer
+[CLS] a [MASK]  riding a snowboard down a snow covered slope. [SEP],man
+[CLS] a [MASK]  is holding a giraffe in a cage. [SEP],woman
+[CLS] a [MASK]  standing on the side of a road holding a camera. [SEP],man
+[CLS] a [MASK]  riding skis down a snow covered slope. [SEP],couple
+[CLS] a [MASK]  walking his dog on the beach. [SEP],man
+[CLS] a [MASK]  flying through the air while riding a skateboard. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  sitting on a bench holding a tennis racquet. [SEP],woman
+[CLS] a [MASK]  flying through the air while riding a snowboard. [SEP],man
+[CLS] a [MASK]  on a surfboard being pulled by a rope. [SEP],man
+[CLS] a [MASK]  in a black shirt and blue tie. [SEP],man
+[CLS] a [MASK]  holding a plate of food in front of him. [SEP],man
+[CLS] a [MASK]  and a dog riding a surfboard in the ocean. [SEP],girl
+[CLS] a [MASK]  and a woman riding a motorcycle down a street. [SEP],man
+[CLS] a [MASK]  riding a skateboard across a parking lot. [SEP],girl
+[CLS] a [MASK]  sitting at a table eating a piece of cake. [SEP],woman
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  riding on the back of a white horse. [SEP],man
+[CLS] a [MASK]  sitting at a table eating a hot dog. [SEP],woman
+[CLS] a [MASK]  in a shirt and tie holding a picture. [SEP],man
+[CLS] a [MASK]  in a hospital bed with a bandage around his mouth. [SEP],man
+[CLS] a [MASK] throwing a frisbee in a park. [SEP],man
+[CLS] a [MASK]  and a woman playing a video game. [SEP],man
+[CLS] a [MASK]  is playing a video game on a television. [SEP],man
+[CLS] a [MASK]  wearing glasses and a red tie. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  standing behind a counter in a kitchen. [SEP],woman
+[CLS] a [MASK]  sitting in front of a pile of luggage. [SEP],man
+[CLS] a [MASK]  sitting in a chair talking on a cell phone. [SEP],man
+[CLS] a [MASK]  and a woman preparing food in a kitchen. [SEP],man
+[CLS] a [MASK]  is working on a piece of wood. [SEP],man
+[CLS] a [MASK]  wearing a tie with a bunch of nuts on it. [SEP],guy
+[CLS] a [MASK]  riding a motorcycle down a dirt road. [SEP],man
+[CLS] a [MASK]  walking down a street holding an umbrella. [SEP],man
+[CLS] a [MASK]  riding a surfboard on top of a wave. [SEP],man
+[CLS] a [MASK]  holding a snowboard in his hand. [SEP],man
+[CLS] a [MASK]  and a woman sitting at a table looking at a cell phone. [SEP],man
+[CLS] a [MASK]  playing with a dog in a park. [SEP],man
+[CLS] a [MASK]  and a woman playing a video game. [SEP],man
+[CLS] a [MASK]  sitting on top of a pile of luggage. [SEP],man
+[CLS] a [MASK] holding a baseball bat on top of a lush green field. [SEP],man
+[CLS] a [MASK]  sitting on a bench in front of a blue wall. [SEP],woman
+[CLS] a [MASK]  riding a horse on a city street. [SEP],man
+[CLS] a [MASK]  holding a little girl on a swing. [SEP],man
+[CLS] a [MASK]  holding a computer mouse over his face. [SEP],man
+[CLS] a [MASK]  holding a tennis racquet on top of a tennis court. [SEP],man
+[CLS] a [MASK]  sitting at a table with a hot dog. [SEP],woman
+[CLS] a [MASK]  riding a skateboard through a parking lot. [SEP],girl
+[CLS] a [MASK]  riding a bike in a parking lot. [SEP],man
+[CLS] a [MASK]  riding a horse over an obstacle. [SEP],man
+a television screen with [CLS] a [MASK]  on it. [SEP],tv
+[CLS] a [MASK]  standing in a kitchen holding a banana. [SEP],woman
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  wearing a tie and a hat. [SEP],man
+[CLS] a [MASK]  taking a picture of himself in the mirror. [SEP],man
+[CLS] a [MASK]  in a suit holding a glass of beer. [SEP],man
+[CLS] a [MASK]  dressed in medieval clothing talking on a cell phone. [SEP],man
+[CLS] a [MASK]  teaching a child how to ride a skateboard. [SEP],teacher
+[CLS] a [MASK]  and a woman posing for a picture. [SEP],man
+[CLS] a [MASK]  standing in a room holding a nintendo wii game controller. [SEP],man
+[CLS] a [MASK] holding a yellow and white frisbee. [SEP],man
+[CLS] a [MASK] wearing glasses and a tie. [SEP],man
+[CLS] a [MASK]  with dreadlocks holding up a large sandwich. [SEP],man
+[CLS] a [MASK]  cutting another man's hair with scissors. [SEP],woman
+[CLS] a [MASK]  standing in a kitchen preparing food. [SEP],woman
+[CLS] a [MASK]  sitting on a toilet reading a newspaper. [SEP],man
+[CLS] a [MASK]  in a suit holding a bottle of beer. [SEP],man
+[CLS] a [MASK]  standing on skis in the snow. [SEP],man
+[CLS] a [MASK]  eating a slice of pizza in a restaurant. [SEP],man
+[CLS] a [MASK]  sitting in the snow on a snowboard. [SEP],girl
+[CLS] a [MASK]  sitting at a desk with a laptop computer. [SEP],man
+[CLS] a [MASK]  riding skis down a snow covered slope. [SEP],couple
+[CLS] a [MASK]  walking down the street with a suitcase. [SEP],woman
+[CLS] a [MASK]  standing in a parking lot holding a frisbee. [SEP],man
+[CLS] a [MASK]  riding skis down a snow covered slope. [SEP],couple
+[CLS] a [MASK]  and a woman sitting on a couch playing a video game. [SEP],man
+[CLS] a [MASK]  swinging a tennis racquet on a tennis court. [SEP],man
+[CLS] a [MASK]  holding a baby in his arms. [SEP],man
+[CLS] a [MASK]  standing in front of a table with bottles of wine. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  wearing a blue tie drinking a beer. [SEP],man
+[CLS] a [MASK]  flying through the air while riding a skateboard. [SEP],man
+[CLS] a [MASK]  in a white shirt and white shorts playing tennis. [SEP],man
+[CLS] a [MASK]  grilling hot dogs on an outdoor grill. [SEP],couple
+[CLS] a [MASK]  in a white lab coat standing over a woman in a hospital bed. [SEP],man
+[CLS] a [MASK]  in a black suit and red tie. [SEP],man
+[CLS] a [MASK]  in a field holding a frisbee. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  sitting at a table with a plate of pizza. [SEP],man
+an old photo of [CLS] a [MASK]  on a horse by the water. [SEP],man
+[CLS] a [MASK]  riding a motorcycle down a street next to a car. [SEP],man
+[CLS] a [MASK]  holding a dog in front of a christmas tree. [SEP],man
+[CLS] a [MASK]  is flying a kite in a field. [SEP],child
+[CLS]  a shirtless [MASK] playing tennis on a tennis court. [SEP],man
+[CLS] a [MASK]  sitting at a desk using a laptop computer. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  riding skis down a snow covered slope. [SEP],couple
+[CLS] a [MASK]  and a child cross country skiing in the woods. [SEP],mother
+[CLS] a [MASK]  in a black shirt and orange bow tie. [SEP],man
+[CLS] a [MASK] riding a skateboard down a ramp. [SEP],girl
+[CLS] a [MASK]  reaching into an open refrigerator door. [SEP],hand
+[CLS] a [MASK]  riding a skateboard on top of a ramp. [SEP],girl
+[CLS] a [MASK]  in a white robe sitting at a table. [SEP],woman
+[CLS] a [MASK] riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  and a woman sitting on a curb looking at their cell phones. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a blue surfboard. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  on a surfboard in the water with a kite. [SEP],man
+[CLS] a [MASK]  in a yellow vest is handing a bag of food to a crowd of. [SEP],man
+[CLS] a [MASK]  riding a skateboard on top of a wooden platform. [SEP],woman
+[CLS] a [MASK]  in a top hat and tie holding a cell phone. [SEP],man
+[CLS] a [MASK]  and a little girl flying a kite. [SEP],man
+[CLS] a [MASK]  and a woman sitting on a bench. [SEP],man
+[CLS] a [MASK]  sitting at a table with a plate of food and a glass of wine. [SEP],woman
+[CLS] a [MASK]  riding on the back of an elephant across a river. [SEP],man
+[CLS] a [MASK]  in white shirt and white shorts playing a game of tennis. [SEP],man
+[CLS] a [MASK]  standing on the side of a road next to a train. [SEP],man
+[CLS] a [MASK]  swimming in the water next to a boat. [SEP],man
+[CLS] a [MASK]  standing next to an elephant behind a fence. [SEP],man
+[CLS] a [MASK]  walking through an airport with a suitcase. [SEP],woman
+[CLS] a [MASK]  holding a baseball bat on top of a field. [SEP],man
+[CLS] a [MASK]  flying through the air while riding a skateboard. [SEP],man
+[CLS] a [MASK]  riding a snowboard down a snow covered slope. [SEP],man
+[CLS] a [MASK]  riding a surfboard on top of a body of water. [SEP],man
+a toy forklift truck with [CLS] a [MASK]  on it. [SEP],logo
+[CLS] a [MASK]  sitting on a blue motorcycle in a parking lot. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  in a suit and tie holding a drink. [SEP],man
+[CLS] a [MASK]  in a blue shirt holding a white frisbee. [SEP],man
+[CLS] a [MASK]  standing next to a pile of luggage. [SEP],man
+[CLS] a [MASK]  riding a pink motorcycle down a street. [SEP],girl
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  jumping in the air to catch a frisbee. [SEP],bird
+[CLS] a [MASK]  sitting at a table with his arms crossed. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+an elephant and [CLS] a [MASK]  in a zoo enclosure. [SEP],lion
+[CLS] a [MASK]  riding a skateboard down the side of a metal rail. [SEP],man
+[CLS] a [MASK]  is hanging upside down from a traffic light tree. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  sitting at a table with a toothbrush in his mouth. [SEP],man
+[CLS] a [MASK]  and a woman looking at a computer screen. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  sitting in a chair holding a cell phone. [SEP],man
+[CLS] a [MASK]  taking a picture of himself in a restaurant. [SEP],man
+[CLS] a [MASK]  sitting on a bench next to an elephant. [SEP],man
+[CLS] a [MASK] riding a skateboard down a sidewalk. [SEP],kid
+[CLS] a [MASK]  and a woman cutting a cake together. [SEP],man
+[CLS] a [MASK]  eating a sandwich in a restaurant. [SEP],man
+[CLS] a [MASK]  in sunglasses is holding a sandwich. [SEP],man
+[CLS] a [MASK]  in a suit sitting at a desk with a laptop. [SEP],man
+[CLS] a [MASK]  hitting a tennis ball with a racquet. [SEP],man
+[CLS] a [MASK]  and a woman sitting at a table with a laptop. [SEP],man
+[CLS] a [MASK]  holding a pair of scissors in his hands. [SEP],man
+[CLS] a [MASK]  sitting at a table with a baby and a cell phone. [SEP],woman
+[CLS] a [MASK]  standing in the middle of a busy city street. [SEP],man
+[CLS] a [MASK]  standing on the side of a road next to a fire hydrant. [SEP],man
+[CLS] a [MASK]  taking a picture with his cell phone. [SEP],man
+[CLS] a [MASK]  riding a skateboard on a wet surface. [SEP],girl
+[CLS] a [MASK]  standing next to a refrigerator in a kitchen. [SEP],man
+[CLS] a [MASK]  riding a skateboard down a sidewalk. [SEP],kid
+[CLS] a [MASK]  and a woman pose for a picture with a dog. [SEP],man
+[CLS] a [MASK]  in white shirt and white shorts playing a game of tennis. [SEP],man
+[CLS] a [MASK]  riding a snowboard down a snow covered slope. [SEP],man
+[CLS] a [MASK]  and a woman standing in front of a cake. [SEP],man
+[CLS] a [MASK]  and a woman holding a snowboard. [SEP],man
+[CLS] a [MASK]  sitting on a couch with a laptop. [SEP],woman
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  sitting at a desk with headphones on. [SEP],man
+[CLS] a [MASK]  in a suit and tie standing in an office. [SEP],man
+[CLS] a [MASK]  dressed up as a woman with bananas on his head. [SEP],man
+[CLS] a [MASK]  standing on top of a sandy beach holding a frisbee. [SEP],man
+[CLS] a [MASK]  doing a trick on a skateboard at a skate park. [SEP],kid
+[CLS] a [MASK]  in a yellow safety vest standing next to a truck. [SEP],man
+[CLS] a [MASK]  standing in a field holding a kite. [SEP],man
+[CLS] a [MASK]  holding a baseball bat over his shoulder. [SEP],man
+[CLS] a [MASK]  riding a motorcycle with a teddy bear on the back. [SEP],man
+[CLS] a [MASK]  in a blue jacket is holding a pair of skis. [SEP],man
+[CLS] a [MASK]  sitting on a chair holding a tennis racquet. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  sitting on a couch with a cat on his lap. [SEP],man
+[CLS] a [MASK]  and a woman sitting at a table eating food. [SEP],man
+[CLS] a [MASK]  riding a skateboard down the side of a cement block. [SEP],kid
+[CLS] a [MASK]  working on a motorcycle in a garage. [SEP],man
+[CLS] a [MASK]  driving a car at night in the rain. [SEP],man
+[CLS] a [MASK]  sitting at a table with a plate of food. [SEP],woman
+[CLS] a [MASK]  riding skis down a snow covered slope. [SEP],couple
+[CLS] a [MASK]  sitting at a table with a pizza on it. [SEP],woman
+[CLS] a [MASK]  sitting at a table with a microphone. [SEP],man
+[CLS] a [MASK]  standing on a beach looking at a flock of seagulls. [SEP],man
+[CLS] a [MASK]  is setting up a television set on the sidewalk. [SEP],man
+[CLS] a [MASK]  taking a picture of himself in a bathroom mirror. [SEP],man
+[CLS] a [MASK]  laying on a couch with a remote in his hand. [SEP],man
+[CLS] a [MASK]  holding a surfboard on top of a beach. [SEP],man
+[CLS] a [MASK]  flying a kite on top of a snow covered slope. [SEP],boy
+[CLS] a [MASK]  wearing a top hat and a tie. [SEP],man
+[CLS] a [MASK]  flying through the air while riding a skateboard. [SEP],man
+[CLS] a [MASK]  sitting at a kitchen table working on a laptop. [SEP],woman
+[CLS] a [MASK]  riding on the back of a motorcycle down a street. [SEP],man
+[CLS] a [MASK]  and a woman holding tennis rackets. [SEP],man
+[CLS] a [MASK]  on a cell phone sitting in a car. [SEP],man
+[CLS] a [MASK]  standing on a tennis court holding a racquet. [SEP],man
+[CLS] a [MASK]  standing on a beach holding a surfboard. [SEP],man
+[CLS] a [MASK]  holding up two skis in front of a building. [SEP],man
+[CLS] a [MASK]  sitting at a table with a cup of coffee. [SEP],woman
+[CLS] a [MASK]  is sitting in a boat on the water. [SEP],man
+[CLS] a [MASK]  holding a tennis racquet on a tennis court. [SEP],man
+a black and white photo of [CLS] a [MASK]  holding a skateboard. [SEP],man
+[CLS] a [MASK]  riding skis down a snow covered slope. [SEP],couple
+[CLS] a [MASK]  riding a motorcycle down a road next to a pile of hay. [SEP],man
+[CLS] a [MASK]  riding skis down a snow covered slope. [SEP],couple
+a woman and a child walking in front of a statue of [CLS] a [MASK]  on a. [SEP],woman
+[CLS] a [MASK]  standing on skis in the snow. [SEP],man
+[CLS] a [MASK]  sitting in a chair in front of a television. [SEP],man
+[CLS] a [MASK]  in a field with a frisbee. [SEP],kid
+[CLS] a [MASK]  riding a skateboard on top of a red box. [SEP],girl
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  sitting at a bar with a glass of wine. [SEP],man
+[CLS] a [MASK]  sitting on a couch eating a slice of pizza. [SEP],man
+[CLS] a [MASK]  in a green shirt throwing a frisbee. [SEP],guy
+[CLS] a [MASK]  flying through the air while riding a skateboard. [SEP],man
+[CLS] a [MASK]  wearing a tie and a hat. [SEP],man
+[CLS] a [MASK]  cooking food in a skillet on a stove. [SEP],woman
+[CLS] a [MASK]  on a boat talking on a cell phone. [SEP],man
+[CLS] a [MASK]  standing on a beach next to boats. [SEP],man
+[CLS] a [MASK]  riding a snowboard down a snow covered slope. [SEP],man
+[CLS] a [MASK]  holding a crate of oranges at a market. [SEP],man
+[CLS] a [MASK]  in a tuxedo and a woman in a dress. [SEP],man
+[CLS] a [MASK]  riding a motorcycle down a road next to a hill. [SEP],man
+[CLS] a [MASK]  sitting on a bed in a room. [SEP],man
+[CLS] a [MASK] flying through the air while riding a skateboard. [SEP],man
+[CLS] a [MASK]  standing in a kitchen holding a plate of food. [SEP],woman
+[CLS] a [MASK]  standing on a sidewalk with a frisbee in his hand. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  and a woman sitting on a bench next to a tree. [SEP],man
+[CLS] a [MASK]  standing next to a bus on a street. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  standing on a lift next to a traffic light. [SEP],man
+[CLS] a [MASK]  riding a motorcycle down a road. [SEP],man
+[CLS] a [MASK]  riding a skateboard down the side of a swimming pool. [SEP],girl
+[CLS] a [MASK]  riding a bike down a dirt road. [SEP],man
+[CLS] a [MASK]  riding a bike down a street next to a traffic light. [SEP],man
+[CLS] a [MASK]  standing next to a cart filled with luggage. [SEP],man
+[CLS] a [MASK]  standing next to a brown cow on a lush green field. [SEP],man
+[CLS] a [MASK]  flying through the air while riding a snowboard. [SEP],man
+[CLS] a [MASK]  in a wet suit windsurfing in the water. [SEP],man
+[CLS] a [MASK]  walking into the ocean with a surfboard. [SEP],man
+[CLS] a [MASK]  riding a skateboard on top of a metal rail. [SEP],man
+[CLS] a [MASK]  laying on the ground with a frisbee in his hand. [SEP],man
+[CLS] a [MASK]  in a hat holding a white bird. [SEP],man
+[CLS] a [MASK]  sitting at a desk in front of a computer. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a cement wall. [SEP],kid
+[CLS] a [MASK]  sitting on a bench holding a tennis racquet. [SEP],woman
+[CLS] a [MASK]  sitting on a couch holding a baby. [SEP],woman
+[CLS] a [MASK]  standing next to a woman on a black and white checkered floor. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  sitting in front of a bunch of surfboards. [SEP],guy
+[CLS] a [MASK]  flying through the air while riding skis. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  wearing glasses and a red tie. [SEP],man
+[CLS] a [MASK]  standing on a beach flying a kite. [SEP],man
+[CLS] a [MASK]  sitting at a keyboard in front of a laptop. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  riding a skateboard down a street. [SEP],girl
+[CLS] a [MASK]  riding skis down a snow covered slope. [SEP],couple
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  riding a skateboard down a street. [SEP],girl
+[CLS] a [MASK]  riding a skateboard up the side of a wall. [SEP],girl
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  sitting at a desk using a laptop computer. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  riding a surfboard on top of a wave. [SEP],man
+[CLS] a [MASK]  taking a selfie in an elevator. [SEP],girl
+[CLS] a [MASK]  sitting at a desk using a computer. [SEP],man
+[CLS] a [MASK]  holding a string of colorful kites. [SEP],woman
+[CLS] a [MASK]  and a woman sitting on a bench. [SEP],man
+[CLS] a [MASK]  in a top hat talking on a cell phone. [SEP],man
+[CLS] a [MASK]  is flying a kite in a field. [SEP],child
+a picture of [CLS] a [MASK]  and a woman on a bed. [SEP],man
+[CLS] a [MASK]  and a woman holding signs on a dirt road. [SEP],man
+[CLS] a [MASK]  standing on a beach holding a surfboard. [SEP],man
+[CLS] a [MASK]  riding a snowboard on top of a wooden bench. [SEP],woman
+[CLS] a [MASK]  standing next to a pile of luggage on the side of a road. [SEP],man
+[CLS] a [MASK]  sitting on a bench reading a book. [SEP],man
+a woman in a wedding dress feeding a piece of cake to [CLS] a [MASK]  in a. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK] holding a basketball in front of a basketball hoop. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  swinging a tennis racquet on a tennis court. [SEP],man
+[CLS] a [MASK] holding a tennis racquet on a tennis court. [SEP],man
+[CLS] a [MASK]  riding a snowboard down a snow covered slope. [SEP],man
+[CLS] a [MASK]  sitting at a table with a plate of ice cream sundaes. [SEP],woman
+[CLS] a [MASK]  riding a skateboard down the side of a road. [SEP],girl
+[CLS] a [MASK]  sitting at a table with a bottle of beer. [SEP],man
+[CLS] a [MASK]  in a black shirt catching a white frisbee. [SEP],guy
+[CLS] a [MASK] riding a surfboard on top of a wave. [SEP],man
+a book with a picture of [CLS] a [MASK]  fixing a bicycle. [SEP],man
+[CLS] a [MASK]  riding a skateboard down the side of a street. [SEP],girl
+[CLS] a [MASK]  holding a pair of scissors in his hand. [SEP],man
+[CLS] a [MASK]  riding on the back of a brown horse. [SEP],man
+[CLS] a [MASK]  standing next to an elephant in a zoo. [SEP],man
+[CLS] a [MASK]  riding a skateboard down the side of a cement wall. [SEP],kid
+[CLS] a [MASK]  sitting at a desk in front of a laptop computer. [SEP],man
+[CLS] a [MASK]  eating a hot dog with mustard and ketchup. [SEP],woman
+[CLS] a [MASK]  flying through the air while riding a snowboard. [SEP],man
+[CLS] a [MASK]  in a green headband looking at his cell phone. [SEP],man
+[CLS] a [MASK]  in a striped shirt is playing with a frisbee. [SEP],boy
+[CLS] a [MASK]  sitting on a couch with two dogs. [SEP],woman
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  and a woman posing for a picture. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a bench. [SEP],girl
+[CLS] a [MASK]  wearing a tie and a hat in the woods. [SEP],man
+[CLS] an older [MASK]  wearing a suit and tie. [SEP],man
+[CLS] a [MASK]  riding a horse drawn carriage down a street. [SEP],man
+[CLS] a [MASK]  standing on a dock next to a large white boat. [SEP],man
+[CLS] a [MASK]  holding a baseball bat on top of a field. [SEP],man
+[CLS] a [MASK]  riding on the back of an elephant. [SEP],man
+[CLS] a [MASK]  hitting a tennis ball with a racquet. [SEP],man
+[CLS] a [MASK] holding a tennis racquet on a tennis court. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] an older [MASK] and a young boy playing baseball. [SEP],woman
+a black and white photo of [CLS] a [MASK]  with a mustache and bowtie. [SEP],man
+[CLS] a [MASK]  standing next to a skateboard in a parking lot. [SEP],man
+[CLS] a [MASK]  sitting at a table with a pizza and a glass of wine. [SEP],woman
+[CLS] a [MASK]  riding a skateboard on top of a cement block. [SEP],girl
+[CLS] a [MASK]  and a woman standing next to a stop sign. [SEP],man
+[CLS] a [MASK]  jumping in the air to hit a tennis ball. [SEP],kid
+[CLS] a [MASK]  holding a purple umbrella over his head. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  taking a picture with his cell phone. [SEP],man
+[CLS] a [MASK]  and a child flying a kite in a field. [SEP],mother
+[CLS] a [MASK]  standing next to a bike in front of a house. [SEP],man
+[CLS] a [MASK]  holding a tennis racquet on a tennis court. [SEP],man
+[CLS] a [MASK]  flying through the air while riding a skateboard. [SEP],man
+[CLS] a [MASK]  riding skis on top of a snow covered slope. [SEP],couple
+[CLS] a [MASK]  holding a tennis racquet on a tennis court. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  riding a snowboard down the side of a snow covered slope. [SEP],man
+[CLS] a [MASK] riding a skateboard down a sidewalk. [SEP],kid
+[CLS] a [MASK]  riding skis down a snow covered slope. [SEP],couple
+[CLS] a [MASK]  holding a tennis racquet on a tennis court. [SEP],man
+[CLS] a [MASK]  standing next to a car in the desert. [SEP],man
+[CLS] a [MASK]  in a blue shirt is tying a tie. [SEP],man
+[CLS] a [MASK]  holding a hot dog with mustard and ketchup. [SEP],waitress
+[CLS] a [MASK]  sitting at a table with a blender full of food. [SEP],woman
+[CLS] a [MASK]  riding skis down the side of a snow covered slope. [SEP],couple
+[CLS] a [MASK]  standing in a kitchen preparing food. [SEP],woman
+[CLS] a [MASK]  standing on top of a baseball field. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  is looking into a refrigerator full of beer bottles. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  sitting on a bench in a park. [SEP],girl
+[CLS] a [MASK]  riding a red dirt bike in a parking lot. [SEP],man
+[CLS] a [MASK]  sitting on a bed with a laptop. [SEP],woman
+[CLS] a [MASK]  lighting candles on a birthday cake. [SEP],couple
+[CLS] a [MASK]  riding a skateboard down a sidewalk. [SEP],kid
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  riding a skateboard down the side of a ramp. [SEP],girl
+[CLS] a [MASK]  feeding a baby a piece of cake. [SEP],mother
+[CLS] a [MASK]  in a suit and tie sitting on a couch. [SEP],man
+[CLS] a [MASK]  riding a skateboard down a sidewalk. [SEP],kid
+[CLS] a [MASK]  riding a skateboard up the side of a rail. [SEP],kid
+[CLS] a [MASK]  sitting in a car with a dog. [SEP],man
+[CLS] a [MASK]  in a green shirt and black shorts kicking a soccer ball. [SEP],guy
+[CLS] a [MASK]  holding a baseball bat on top of a field. [SEP],man
+[CLS] a [MASK]  and a young boy eating a piece of cake. [SEP],woman
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  riding a motorcycle down a street. [SEP],man
+[CLS] a [MASK]  flying through the air while riding a skateboard. [SEP],man
+[CLS] a [MASK]  hitting a tennis ball with a racquet on a tennis court. [SEP],player
+[CLS] a [MASK]  holding a tennis racquet on a tennis court. [SEP],man
+[CLS] a [MASK]  sitting in front of a laptop computer. [SEP],man
+[CLS] a [MASK]  in an orange shirt looking at his cell phone. [SEP],man
+[CLS] a [MASK]  standing next to a white horse. [SEP],man
+[CLS] a [MASK]  and a little girl laying in bed. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a wall. [SEP],girl
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  walking down a street next to a building. [SEP],man
+[CLS] a [MASK]  sitting in a chair holding a remote. [SEP],man
+[CLS] a [MASK]  working in a donut shop making donuts. [SEP],woman
+[CLS] a [MASK]  standing in a kitchen next to a sink. [SEP],man
+[CLS] a [MASK]  swinging a tennis racket at a tennis ball. [SEP],man
+[CLS] a [MASK]  sitting on a boat holding a cell phone. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  and a dog stand on surfboards in the water. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  in a red shirt is throwing a frisbee. [SEP],guy
+[CLS] a [MASK]  holding a tennis racquet on a tennis court. [SEP],man
+[CLS] a [MASK]  sitting at a table in a kitchen. [SEP],woman
+[CLS] a [MASK]  standing in a kitchen next to a dog. [SEP],man
+[CLS] a [MASK]  riding on a horse drawn wagon. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  holding a baseball bat standing next to a boy. [SEP],man
+[CLS] a [MASK]  riding a bike down a street next to a dog. [SEP],man
+[CLS] a [MASK] standing in front of a wall with graffiti on it. [SEP],man
+[CLS] a [MASK]  swinging a tennis racquet on a tennis court. [SEP],man
+[CLS] a [MASK]  sitting at a table with a child in front of a pizza. [SEP],woman
+[CLS] a [MASK]  and woman sitting on a bench with a dog. [SEP],man
+[CLS] a [MASK]  standing next to a clock on a table. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  kneeling down next to a brown horse. [SEP],man
+[CLS] a [MASK]  laying on top of a pile of sheep. [SEP],man
+[CLS] a [MASK]  riding a motorcycle down a busy street. [SEP],man
+[CLS] a [MASK]  standing in a hospital room next to a bed. [SEP],man
+[CLS] a [MASK]  carrying a child on his back in a flooded area. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  standing in the snow with an umbrella. [SEP],woman
+[CLS] a [MASK]  in a hat taking a picture with a camera. [SEP],man
+[CLS] a [MASK]  on a horse herding a flock of sheep. [SEP],rider
+[CLS] a [MASK]  sitting at a table with six glasses of beer. [SEP],man
+[CLS] a [MASK]  flying through the air while riding a snowboard. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  and a child on skis in the snow. [SEP],woman
+a black and white photo of [CLS] a [MASK]  walking down the street. [SEP],man
+[CLS] a [MASK]  flying through the air while riding a skateboard. [SEP],man
+[CLS] a [MASK]  riding a skateboard down a street. [SEP],girl
+[CLS] a [MASK]  riding a water ski on top of a body of water. [SEP],man
+[CLS] a [MASK]  and a woman are riding a motorcycle. [SEP],man
+[CLS] a [MASK] riding a skateboard down a road. [SEP],girl
+[CLS] a [MASK] talking on a cell phone. [SEP],man
+[CLS] a [MASK]  in a wet suit carrying a surfboard into the ocean. [SEP],man
+a painting of [CLS] a [MASK]  kicking a soccer ball. [SEP],child
+[CLS] a [MASK]  sitting on a bench in a park. [SEP],girl
+[CLS] a [MASK]  standing on a snowboard in the snow. [SEP],man
+[CLS] a [MASK]  sitting at a table with a plate of food. [SEP],woman
+[CLS] a [MASK]  teaching a child how to snowboard. [SEP],teacher
+[CLS] a [MASK]  sitting in the snow with his dog. [SEP],man
+[CLS] a [MASK]  holding a tennis racquet on a tennis court. [SEP],man
+[CLS] a [MASK]  riding skis down the side of a snow covered slope. [SEP],couple
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  in a suit and tie holding a stick. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a cement pillar. [SEP],girl
+[CLS] a [MASK]  flying a kite on top of a sandy beach. [SEP],man
+[CLS] a [MASK]  eating a sandwich in a restaurant. [SEP],man
+[CLS] a [MASK]  in blue shirt and white shorts playing tennis. [SEP],man
+[CLS] a [MASK]  holding a tennis racquet on a tennis court. [SEP],man
+[CLS] a [MASK]  and a woman sitting on the ground with a surfboard. [SEP],man
+[CLS] a [MASK]  riding a bike down a street next to a black truck. [SEP],man
+[CLS] a [MASK]  holding a tennis racquet on a tennis court. [SEP],man
+[CLS] a [MASK]  sitting at a table with a phone in his hand. [SEP],man
+[CLS] a [MASK]  riding skis down a snow covered slope. [SEP],couple
+[CLS] a [MASK]  standing in a living room holding a nintendo wii game controller. [SEP],man
+[CLS] a [MASK]  standing on top of a boat in the water. [SEP],man
+[CLS] a [MASK]  in a yellow shirt and black shorts playing a game of tennis. [SEP],man
+[CLS] a [MASK]  standing on a tennis court holding a racquet. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  and a little girl standing in front of a cake. [SEP],man
+[CLS] a [MASK]  riding a skateboard down the side of a cement wall. [SEP],kid
+[CLS] a [MASK]  serving a tennis ball on a tennis court. [SEP],waiter
+[CLS] a [MASK]  riding a skateboard up the side of a stair. [SEP],girl
+[CLS] a [MASK]  riding skis down a snow covered slope. [SEP],couple
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  and his dog in a boat on the water. [SEP],man
+[CLS] a [MASK]  holding a tennis racquet on top of a tennis court. [SEP],man
+[CLS] a [MASK]  sitting at a table in front of a plate of food. [SEP],woman
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  flying through the air while riding a skateboard. [SEP],man
+[CLS] a [MASK]  standing in front of a bathroom sink. [SEP],man
+[CLS] a [MASK]  standing next to a little boy on skis. [SEP],woman
+a black and white photo of [CLS] a [MASK]  and a woman. [SEP],man
+[CLS] a [MASK]  standing next to a brown and white horse. [SEP],man
+[CLS] a [MASK]  and a woman playing a video game. [SEP],man
+[CLS] a [MASK]  in a black coat and red tie. [SEP],man
+[CLS] a [MASK]  and a woman holding a yellow frisbee. [SEP],man
+[CLS] a [MASK]  swinging a tennis racquet on a tennis court. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  swinging a tennis racquet at a ball. [SEP],man
+[CLS] a [MASK]  riding a motorcycle down a dirt road. [SEP],man
+[CLS] a [MASK]  riding on the back of an elephant. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a building. [SEP],girl
+[CLS] a [MASK]  sitting on a beach next to a surfboard. [SEP],girl
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  riding skis down a snow covered slope. [SEP],couple
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  swinging a tennis racquet on a tennis court. [SEP],man
+[CLS] a [MASK]  riding skis down the side of a snow covered slope. [SEP],couple
+[CLS] a [MASK]  in a suit and sunglasses standing in front of a house. [SEP],man
+[CLS] a [MASK]  kicking a soccer ball on a field. [SEP],kid
+[CLS] a [MASK]  standing on a beach next to a dog. [SEP],man
+[CLS] a [MASK]  in a suit and tie walking down a street. [SEP],man
+[CLS] a [MASK]  holding a handful of peanuts in his hand. [SEP],man
+[CLS] a [MASK]  riding a skateboard on top of a fire hydrant. [SEP],woman
+[CLS] a [MASK]  riding a skateboard down a street. [SEP],girl
+a television with a picture of [CLS] a [MASK]  on it. [SEP],woman
+[CLS] a [MASK]  standing in the doorway of a red train. [SEP],man
+[CLS] a [MASK]  in a white shirt and black tie. [SEP],man
+[CLS] a [MASK]  holding a camera with a hat on his head. [SEP],man
+[CLS] a [MASK]  standing in a living room holding a nintendo wii game controller. [SEP],man
+[CLS] a [MASK]  in a robe holding a chocolate doughnut. [SEP],woman
+[CLS] a [MASK]  riding a skateboard down the middle of a road. [SEP],girl
+[CLS] a [MASK]  standing in a living room holding a nintendo wii game controller. [SEP],man
+[CLS] a [MASK]  riding on the back of an elephant. [SEP],man
+a black and white photo of [CLS] a [MASK]  standing next to a truck with bananas on. [SEP],man
+[CLS] a [MASK]  holding a surfboard on a beach. [SEP],man
+[CLS] a [MASK]  flying through the air while riding a skateboard. [SEP],man
+[CLS] a [MASK]  is looking at airplanes on the runway. [SEP],man
+[CLS] a [MASK]  and a woman standing next to each other. [SEP],man
+[CLS] a [MASK]  adjusting another man's tie in a room. [SEP],man
+[CLS] a [MASK]  standing in the snow on skis. [SEP],couple
+[CLS] a [MASK]  laying on top of a sand dune. [SEP],body
+[CLS] a [MASK]  laying in the grass with a frisbee. [SEP],girl
+[CLS] a [MASK]  sitting on a park bench talking on a cell phone. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  riding a skateboard down the side of a rail. [SEP],kid
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  holding a tennis racquet on a tennis court. [SEP],man
+[CLS] a [MASK]  riding a skateboard on top of a metal object. [SEP],man
+[CLS] a [MASK]  stands next to his motorcycle in a field. [SEP],man
+[CLS] a [MASK]  riding a blue motorcycle down a road. [SEP],man
+[CLS] a [MASK]  standing on a boat in the middle of the ocean. [SEP],man
+[CLS] a [MASK]  in a striped shirt holding a hot dog. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a wall. [SEP],girl
+[CLS] a [MASK]  flying through the air while riding a skateboard. [SEP],man
+[CLS] a [MASK]  sitting at a table talking on a cell phone. [SEP],man
+[CLS] a [MASK]  in a blue jacket is riding a horse. [SEP],man
+[CLS] a [MASK]  riding on the back of a brown horse. [SEP],man
+[CLS] a [MASK]  sitting on a couch with two children and a dog. [SEP],woman
+[CLS] a [MASK]  flying through the air while riding a snowboard. [SEP],man
+[CLS] a [MASK]  swinging a tennis racquet on a tennis court. [SEP],man
+[CLS] a [MASK]  and a woman sitting on a motorcycle. [SEP],man
+[CLS] a [MASK]  riding a snowboard down a snow covered slope. [SEP],man
+[CLS] a [MASK]  and a woman standing next to each other. [SEP],man
+[CLS] a [MASK] riding a skateboard down a street. [SEP],girl
+[CLS] a [MASK]  and a woman sitting on a white bench. [SEP],man
+[CLS] a [MASK]  in a shirt and tie posing for a portrait. [SEP],man
+[CLS] a [MASK]  riding a motorcycle on a city street. [SEP],man
+[CLS] a [MASK]  and a woman preparing food in a kitchen. [SEP],man
+[CLS] a [MASK]  riding skis down a snow covered slope. [SEP],couple
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  holding a tennis racquet on top of a tennis court. [SEP],man
+[CLS] a [MASK]  standing in the back of a truck with luggage. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  in a leather jacket sitting on a motorcycle. [SEP],man
+[CLS] a [MASK]  sitting at a table with a plate of food. [SEP],woman
+[CLS] a [MASK]  flying through the air while riding a skateboard. [SEP],man
+[CLS] a [MASK]  sitting on a bench overlooking a body of water. [SEP],woman
+[CLS] a [MASK]  riding on the back of an elephant. [SEP],man
+[CLS] a [MASK]  sitting on the floor using a laptop computer. [SEP],man
+[CLS] a [MASK]  and a woman standing in a field flying kites. [SEP],man
+[CLS] a [MASK]  swinging a tennis racquet on a tennis court. [SEP],man
+[CLS] a [MASK]  sitting on a bench with an umbrella. [SEP],woman
+[CLS] a [MASK]  plowing a field with two cows. [SEP],farmer
+[CLS] a [MASK]  with glasses talking on a cell phone. [SEP],man
+[CLS] a [MASK]  riding a bike down a sidewalk next to a beach. [SEP],man
+[CLS] a [MASK]  swinging a tennis racquet on a tennis court. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  standing next to an airplane on a runway. [SEP],man
+[CLS] a [MASK]  is feeding a group of sheep. [SEP],woman
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  standing next to a train with a suitcase. [SEP],man
+[CLS] a [MASK]  talking on a cell phone next to a white car. [SEP],man
+[CLS] a [MASK]  and a woman cutting a cake together. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  in a suit standing in front of a table full of bottles of wine. [SEP],man
+[CLS] a [MASK] riding a skateboard over a rail. [SEP],girl
+[CLS] a [MASK]  in a cowboy hat riding a horse. [SEP],man
+[CLS] a [MASK]  standing in a kitchen with a plate of food. [SEP],woman
+[CLS] a [MASK]  standing in a living room holding a nintendo wii game controller. [SEP],man
+[CLS] a [MASK]  and a woman are sleeping in bed. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  on a small boat with an umbrella. [SEP],man
+[CLS] a [MASK]  sitting at a table using a laptop computer. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  feeding a giraffe from a tree. [SEP],woman
+[CLS] a [MASK]  in a chef's hat preparing food in a kitchen. [SEP],man
+[CLS] a [MASK]  wearing a hat and bow tie in a car. [SEP],man
+[CLS] a [MASK]  and a boy on skateboards in a parking lot. [SEP],girl
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  holding a cell phone up to his face. [SEP],man
+[CLS] a [MASK]  and a woman holding surfboards on the beach. [SEP],man
+[CLS] a [MASK]  riding skis down a snow covered slope. [SEP],couple
+a black and white photo of [CLS] a [MASK]  plowing a field with horses. [SEP],man
+[CLS] a [MASK]  sitting on a couch in a living room. [SEP],woman
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  walking in the rain with an umbrella. [SEP],man
+[CLS] a [MASK]  walking a herd of sheep across a street. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a yellow surfboard. [SEP],man
+[CLS] a [MASK]  riding skis down a snow covered slope. [SEP],couple
+[CLS] a [MASK]  and a woman sitting at a table. [SEP],man
+[CLS] a [MASK]  flying through the air while riding a skateboard. [SEP],man
+[CLS] a [MASK]  riding a bike next to a train. [SEP],man
+[CLS] a [MASK]  holding a surfboard on top of a rocky beach. [SEP],man
+[CLS] a [MASK]  holding a wine glass in a room. [SEP],man
+[CLS] a [MASK]  riding skis down a snow covered slope. [SEP],couple
+[CLS] a [MASK]  sitting in a boat with a teddy bear. [SEP],girl
+[CLS] a [MASK]  in a suit holding a glass of wine. [SEP],man
+[CLS] a [MASK]  and a little girl riding on a motorcycle. [SEP],man
+[CLS] a [MASK]  is walking on the beach with a frisbee. [SEP],girl
+[CLS] a [MASK]  riding skis down a snow covered slope. [SEP],couple
+[CLS] a [MASK]  sitting on a motorcycle in a garage. [SEP],man
+[CLS] a [MASK]  and a woman standing next to a table with a laptop on it. [SEP],man
+[CLS] a [MASK]  and a woman cutting a wedding cake. [SEP],man
+[CLS] a [MASK]  in a suit and tie standing in front of a stone wall. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  riding skis down a snow covered slope. [SEP],couple
+[CLS] a [MASK]  sitting on a bench looking at his cell phone. [SEP],man
+[CLS] a [MASK]  riding an atv on a beach next to a pier. [SEP],man
+a black and white photo of [CLS] a [MASK]  in a suit. [SEP],man
+[CLS] a [MASK]  riding a snowboard down a snow covered slope. [SEP],man
+[CLS] a [MASK]  riding a snowboard down the side of a snow covered slope. [SEP],man
+[CLS] a [MASK]  standing in the ocean with a surfboard. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  eating a piece of cake with a spoon. [SEP],man
+[CLS] a [MASK]  in a gas mask working on a surfboard. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  in a suit holding a bottle of wine. [SEP],man
+[CLS] a [MASK]  holding a tennis racquet on a tennis court. [SEP],man
+[CLS] a [MASK]  riding a horse on a lush green field. [SEP],man
+[CLS] a [MASK]  and a woman laying in a bed. [SEP],man
+[CLS] a [MASK]  in white shirt and khaki shorts playing tennis. [SEP],man
+[CLS] a [MASK]  is eating a sandwich at a table. [SEP],man
+[CLS] a [MASK]  flying through the air while riding a snowboard. [SEP],man
+[CLS] a [MASK]  riding in a horse drawn carriage. [SEP],man
+a painting of a horse and [CLS] a [MASK]  on a porch. [SEP],woman
+[CLS] a [MASK]  riding a red motorcycle down a street. [SEP],man
+[CLS] a [MASK]  doing a trick on a skateboard at a skate park. [SEP],kid
+[CLS] a [MASK]  laying on a surfboard in the ocean. [SEP],man
+[CLS] a [MASK]  wearing a blue and white shirt and tie. [SEP],man
+[CLS] a [MASK]  standing on a skateboard in the middle of a street. [SEP],man
+[CLS] a [MASK]  taking a picture of himself in a mirror. [SEP],man
+[CLS] a [MASK]  standing next to a large elephant. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK] riding a skateboard down a sidewalk. [SEP],kid
+[CLS] a [MASK]  riding skis down a snow covered slope. [SEP],couple
+[CLS] a [MASK]  holding a tennis racquet on a tennis court. [SEP],man
+[CLS] a [MASK]  holding a cake with a lit candle on it. [SEP],woman
+[CLS] a [MASK]  standing next to a dog on a lush green field. [SEP],man
+[CLS] a [MASK]  riding a snowboard down a snow covered slope. [SEP],man
+[CLS] a [MASK]  sitting next to a woman on a couch. [SEP],man
+[CLS] a [MASK]  riding on the back of a white horse. [SEP],man
+[CLS] a [MASK]  sitting on a bus looking out the window. [SEP],girl
+[CLS] a [MASK]  riding a surfboard on top of a wave. [SEP],man
+[CLS] a [MASK] riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  is eating a sandwich in a paper bag. [SEP],man
+[CLS] a [MASK]  brushing his teeth while holding a baby. [SEP],man
+[CLS] a [MASK]  talking on a cell phone while standing next to a bicycle. [SEP],man
+[CLS] a [MASK]  riding a bike down a street next to a truck. [SEP],man
+[CLS] a [MASK]  wearing a mask holding a smart phone. [SEP],man
+[CLS] a [MASK]  taking a picture of another man sitting at a desk. [SEP],woman
+[CLS] a [MASK]  in a suit adjusting his tie. [SEP],man
+[CLS] a [MASK]  sitting in the driver's seat of a bus. [SEP],girl
+[CLS] a [MASK]  riding a skateboard down the side of a road. [SEP],girl
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a stone wall. [SEP],girl
+[CLS] a [MASK]  and a child riding a surfboard in the ocean. [SEP],mother
+[CLS] a [MASK]  standing in a kitchen next to a stove. [SEP],woman
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  riding skis down the side of a snow covered slope. [SEP],couple
+[CLS] a [MASK]  is flying a kite on the beach. [SEP],man
+[CLS] a [MASK]  in a shirt and tie holding up a business card. [SEP],man
+[CLS] a [MASK]  standing on a tennis court holding a racquet. [SEP],man
+[CLS] a [MASK]  sitting at a table with a pizza and salad. [SEP],waitress
+[CLS] a [MASK]  riding skis down a snow covered slope. [SEP],couple
+[CLS] a [MASK]  is running on a tennis court with a racket. [SEP],man
+[CLS] a [MASK]  holding a baby and [CLS] a [MASK]  holding a toddler. [SEP],woman
+[CLS] a [MASK]  with a beard standing next to a horse. [SEP],man
+[CLS] a [MASK]  standing in front of a truck full of cars. [SEP],man
+[CLS] a [MASK]  sticking his tongue out while riding a motorcycle. [SEP],man
+[CLS] a [MASK]  in a suit and tie holding something in his hand. [SEP],man
+[CLS] a [MASK]  in a field with two dogs and a frisbee. [SEP],man
+[CLS] a [MASK]  flying through the air while riding a snowboard. [SEP],man
+[CLS] a [MASK]  putting a pot into an oven. [SEP],man
+[CLS] a [MASK]  and a woman brushing their teeth in a bathroom. [SEP],man
+[CLS] a [MASK]  riding a snowboard down the side of a snow covered slope. [SEP],man
+[CLS] a [MASK]  flying through the air while riding a kiteboard. [SEP],man
+[CLS] a [MASK]  riding a yellow motorcycle down a street. [SEP],man
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  standing in a kitchen preparing food. [SEP],woman
+[CLS] a [MASK]  sitting on a beach next to a surfboard. [SEP],girl
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  riding skis down a snow covered slope. [SEP],couple
+[CLS] a [MASK]  standing next to a zebra on a lush green field. [SEP],man
+a black and white photo of [CLS] a [MASK]  in a suit and hat. [SEP],man
+[CLS] a [MASK]  riding a snowboard down a snow covered slope. [SEP],man
+[CLS] a [MASK]  sitting at a table with a bottle of alcohol. [SEP],woman
+[CLS] a [MASK]  handing food to a woman at a food truck. [SEP],man
+[CLS] a [MASK]  flying through the air while riding skis. [SEP],man
+[CLS] a [MASK]  standing next to a statue of [CLS] a [MASK] . [SEP],woman
+[CLS] a [MASK]  on a motorcycle looking in a car mirror. [SEP],man
+[CLS] a [MASK]  flying through the air while riding skis. [SEP],man
+[CLS] a [MASK]  holding a stop sign in front of a truck. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+a black and white photo of [CLS] a [MASK]  plowing a field with two horses. [SEP],man
+[CLS] a [MASK]  holding a tennis racquet on top of a tennis court. [SEP],man
+[CLS] a [MASK]  riding a motorcycle down a highway. [SEP],man
+[CLS] a [MASK]  swinging a tennis racquet on a tennis court. [SEP],man
+[CLS] a [MASK]  sitting on a toilet in a bathroom. [SEP],man
+[CLS] a [MASK]  laying in bed with a blue teddy bear. [SEP],woman
+[CLS] a [MASK]  and a woman on skis in the snow. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  riding a motorcycle down a street. [SEP],man
+[CLS] a [MASK]  is playing a video game in a living room. [SEP],couple
+[CLS] a [MASK]  is blow drying a little girl's hair. [SEP],woman
+[CLS] a [MASK]  carrying a cat in a backpack. [SEP],man
+[CLS] a [MASK]  riding a snowboard down a snow covered slope. [SEP],man
+[CLS] a [MASK]  walking down a hallway next to a bunch of bikes. [SEP],guy
+[CLS] a [MASK] riding a skateboard down a street. [SEP],girl
+[CLS] a [MASK]  sitting at a table with a glass of wine. [SEP],woman
+[CLS] a [MASK]  in a kitchen preparing food on a stove. [SEP],woman
+[CLS] a [MASK]  walking across the street with a skateboard. [SEP],man
+[CLS] a [MASK]  milking a cow in a barn. [SEP],man
+[CLS] a [MASK]  sitting at a table with a plate of food. [SEP],woman
+[CLS] a [MASK]  riding a skateboard up the side of a ramp. [SEP],girl
+[CLS] a [MASK]  is flying a kite on the beach. [SEP],man
+[CLS] a [MASK]  riding a wave on top of a surfboard. [SEP],man
+[CLS] a [MASK]  hitting a baseball with a bat. [SEP],man
+[CLS] a [MASK]  flying through the air while riding a skateboard. [SEP],man
