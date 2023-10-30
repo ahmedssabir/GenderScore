@@ -134,7 +134,8 @@ For cloze sentence-gender and the caption
 ```
 
 ##  Cloze gender to caption
-We want to explore all the cases and let the proposed distance/score decide which gender (i.e. bias) is in the  image based on a visual bias. In particular, inspired by the cloze probability last word completion task, we generate two identical sentences but with different gender, and then we compute the likelihood revisions between the  sentence-gender and the caption using the object probability. 
+
+In this section, we hypothesize that every image has a gender ∈ {man, woman} or gender neutral and we want to explore all the cases and let the proposed distance/score decide which gender (_i.e. bias_) is in the image based on a visual bias. In particular, inspired by the cloze probability last word completion task, we generate two identical sentences but with a different gender, and then we compute the likelihood revisions between the sentence gender and the caption using the object probability. 
 
 
 ## Example
