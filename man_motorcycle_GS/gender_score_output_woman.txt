@@ -1,0 +1,30 @@
+a woman and a little girl sitting on a motorcycle, 0.23590850556523738
+a woman and a woman riding a motorcycle down a street, 0.2196635313706206
+a woman riding a motorcycle down a dirt road, 0.057780398744638466
+a woman riding a motorcycle down a street next to a car, 0.21839215106728552
+a woman sitting on a blue motorcycle in a parking lot, 0.27773833243385865
+a woman riding a pink motorcycle down a street, 0.12612403683177198
+a woman riding a motorcycle with a teddy bear on the back, 0.4504613767341235
+a woman working on a motorcycle in a garage, 0.17941414636510067
+a woman riding on the back of a motorcycle down a street, 0.4746160288695193
+a woman riding a motorcycle down a road next to a pile of hay, 0.3050074007384991
+a woman riding a motorcycle down a road next to a hill, 0.3723021503800621
+a woman riding a motorcycle down a road, 0.22791345532335952
+a woman riding a red dirt bike in a parking lot, 0.42696845465852273
+a woman riding a motorcycle down a street, 0.29713695776061205
+a woman riding a motorcycle down a busy street, 0.2814751090795536
+a woman and a woman are riding a motorcycle, 0.32023466641488135
+a woman riding a motorcycle down a dirt road, 0.19708580096391928
+a woman stands next to his motorcycle in a field, 0.14510757312697808
+a woman riding a blue motorcycle down a road, 0.06809931502669692
+a woman and a woman sitting on a motorcycle, 0.093566128815894
+a woman riding a motorcycle on a city street, 0.34976626279569556
+a woman in a leather jacket sitting on a motorcycle, 0.36716810262336286
+a woman and a little girl riding on a motorcycle, 0.3633421591157243
+a woman sitting on a motorcycle in a garage, 0.1795673785513134
+a woman riding a red motorcycle down a street, 0.11865868254841597
+a woman sticking his tongue out while riding a motorcycle, 0.017244790619917807
+a woman riding a yellow motorcycle down a street, 0.11895637975000344
+a woman on a motorcycle looking in a car mirror, 0.09585888141441952
+a woman riding a motorcycle down a highway, 0.07119553166329712
+a woman riding a motorcycle down a street, 0.2796948276170135

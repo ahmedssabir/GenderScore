@@ -1,0 +1,30 @@
+a man and a little girl sitting on a motorcycle,gender_score: 0.28831001655259564
+a man and a woman riding a motorcycle down a street,gender_score: 0.29403886272042534
+a man riding a motorcycle down a dirt road,gender_score: 0.07010789799118017
+a man riding a motorcycle down a street next to a car,gender_score: 0.299698879709562
+a man sitting on a blue motorcycle in a parking lot,gender_score: 0.3114830971069185
+a man riding a pink motorcycle down a street,gender_score: 0.14872925051657376
+a man riding a motorcycle with a teddy bear on the back,gender_score: 0.468133574240541
+a man working on a motorcycle in a garage,gender_score: 0.18766690491506396
+a man riding on the back of a motorcycle down a street,gender_score: 0.47833117732919905
+a man riding a motorcycle down a road next to a pile of hay,gender_score: 0.34864142252719593
+a man riding a motorcycle down a road next to a hill,gender_score: 0.4269414096634569
+a man riding a motorcycle down a road,gender_score: 0.26865177859060707
+a man riding a red dirt bike in a parking lot,gender_score: 0.4398573842327848
+a man riding a motorcycle down a street,gender_score: 0.34552251602399237
+a man riding a motorcycle down a busy street,gender_score: 0.30303888222473446
+a man and a woman are riding a motorcycle,gender_score: 0.4518942483302369
+a man riding a motorcycle down a dirt road,gender_score: 0.16867876150689873
+a man stands next to his motorcycle in a field,gender_score: 0.175547369429249
+a man riding a blue motorcycle down a road,gender_score: 0.08979652455356839
+a man and a woman sitting on a motorcycle,gender_score: 0.14761990097098926
+a man riding a motorcycle on a city street,gender_score: 0.40263406845318384
+a man in a leather jacket sitting on a motorcycle,gender_score: 0.4702016134180426
+a man and a little girl riding on a motorcycle,gender_score: 0.41880377180400513
+a man sitting on a motorcycle in a garage,gender_score: 0.2534666572077268
+a man riding a red motorcycle down a street,gender_score: 0.12776121469022744
+a man sticking his tongue out while riding a motorcycle,gender_score: 0.03996507545900985
+a man riding a yellow motorcycle down a street,gender_score: 0.1440623078378661
+a man on a motorcycle looking in a car mirror,gender_score: 0.11438146824198266
+a man riding a motorcycle down a highway,gender_score: 0.08440602003558793
+a man riding a motorcycle down a street,gender_score: 0.3199671977533724
