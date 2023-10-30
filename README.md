@@ -193,7 +193,7 @@ sentence: blood makes you related. Loyalty makes you family. [predicted bias-gen
 GT: m
 ```
 
-The GS can be adapted for another language (tweet or short text). Therefore, We also [adopt this score](GS_twitter_demo_jp) to the Japanese language. <!-- Please refer to this demo for fast start [huggingface demo (JP)](https://huggingface.co) -->
+The GS can be adapted for other languages (_e.g._ tweet or short text). Therefore, We also [adopt this score](GS_twitter_demo_jp) to the Japanese language. <!-- Please refer to this demo for fast start [huggingface demo (JP)](https://huggingface.co) -->
 
 
 
