@@ -133,7 +133,7 @@ python model_GE.py --GPT2model gpt2  --BERTmodel roberta-large-nli-stsb-mean-tok
 For cloze sentence-gender and the caption 
 ```
 
-##  Cloze sentence gender-caption
+##  Cloze gender to caption
 We want to explore all the cases and let the proposed distance/score decide which gender (i.e. bias) is in the  image based on a visual bias. In particular, inspired by the cloze probability last word completion task, we generate two identical sentences but with different gender, and then we compute the likelihood revisions between the  sentence-gender and the caption using the object probability. 
 
 
@@ -192,7 +192,8 @@ gender score w: 0.005365207900075213
 sentence: blood makes you related. Loyalty makes you family. [predicted bias-gender: w]
 GT: m
 ```
-We also [adopt this score](GS_twitter_demo_jp) to  Japanese language (tweet or short text). <!-- Please refer to this demo for fast start [huggingface demo (JP)](https://huggingface.co) -->
+
+The GS can be adapted for another language (tweet or short text). Therefore, We also [adopt this score](GS_twitter_demo_jp) to the Japanese language. <!-- Please refer to this demo for fast start [huggingface demo (JP)](https://huggingface.co) -->
 
 
 
