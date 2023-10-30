@@ -166,6 +166,8 @@ In this section, we apply our proposed gender score to a subset of the Twitter  
 
 First we extract the context from each sentence with associate probability (_i.e._ tweet). We use [KeyBERT](https://github.com/MaartenGr/KeyBERT).
 
+<!-- <a href="https://github.com/ahmedssabir/Belief-Revision-Score">Belief-Revision-Score</a> --> 
+
 ```
 from keybert import KeyBERT
 
