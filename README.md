@@ -29,12 +29,12 @@ In this paper, we investigate the impact of objects on gender bias in image capt
 
  ## Quick Start 
 For a quick start please have a look at this [project page](https://ahmed.jp/project_page/gender_score_2023/index.html) 
-and [demo](https://huggingface.co), 
+and [demo](https://huggingface.co/spaces/AhmedSSabir/Demo-for-Gender-Score), 
 
 <!-- [huggingface demo (EN)](https://huggingface.co) --> 
  <!-- , and [huggingface demo (JP)](https://huggingface.co) -->
 
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/sabirdvd/Gender_score/blob/main/paper_demo/paper_demo.ipynb)
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/ahmedssabir/GenderScore/tree/main/paper_demo)
 
 
 
