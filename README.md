@@ -135,7 +135,7 @@ For cloze sentence-gender and the caption
 
 ##  Cloze gender to caption
 
-In this section, we hypothesize that every image has a gender ∈ {man, woman} or gender neutral and we want to explore all the cases and let the proposed distance/score decide which gender (_i.e. bias_) is in the image based on a visual bias. In particular, inspired by the cloze probability last word completion task, we generate two identical sentences but with a different gender, and then we compute the likelihood revisions between the sentence gender and the caption using the object probability. 
+In this section, we hypothesize that every image has a gender ∈ {man, woman} or gender neutral and we want to explore all the cases and let the proposed distance/score decide which gender (_i.e. bias_) is in the image based on a visual bias. In particular, inspired by the cloze probability last word completion task, we generate two identical sentences but with a different gender, and then we compute the Gender Score between the sentence gender and the caption using the object probability. 
 
 
 ## Example
@@ -213,6 +213,7 @@ The details of this repo are described in the following paper. If you find this 
 }
 ```
 --->
- 
+
+<!-- <a href="https://github.com/ahmedssabir/Belief-Revision-Score">Belief-Revision-Score</a> --> 
  ### Acknowledgement
-The implementation of the Belief Revision Score relies on resources from <a href="https://github.com/simonepri/lm-scorer">lm-score</a>, <a href="https://github.com/huggingface/transformers">Huggingface Transformers</a>, and <a href="https://www.sbert.net/">SBERT</a>. We thank the original authors for their well organized codebase.
+The implementation of the Gender Score relies on resources from <a href="https://github.com/simonepri/lm-scorer">lm-score</a>, <a href="https://github.com/huggingface/transformers">Huggingface Transformers</a>, and <a href="https://www.sbert.net/">SBERT</a>. We thank the original authors for their well organized codebase.
