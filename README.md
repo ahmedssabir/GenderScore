@@ -164,7 +164,7 @@ gender score w: 0.3182200321892468
 ```
 
 ## Gender Score for non-visual task: gender bias in twitter 
-In this section, we apply our proposed gender score to a subset of the Twitter user gender classification dataset. We use a BERT based keyword extractor  to extract the biased context from the sentence (_e.g._ travel-man, woman-family), and we then employ  the cloze probability to extract the probability of the context. We observe  that there are some keywords that have a strong  bias: women are associated with keywords such as _novel_, _beauty_ and _hometown_. Meanwhile, men are  more frequently related to words such as _gaming_, _coffee_ and _inspiration_.   
+In this section, we apply our proposed Gender Score to a subset of the Twitter user gender classification dataset. We use a BERT based keyword extractor  to extract the biased context from the sentence (_e.g._ travel-man, woman-family), and we then employ  the cloze probability to extract the probability of the context. We observe  that there are some keywords that have a strong  bias: women are associated with keywords such as _novel_, _beauty_ and _hometown_. Meanwhile, men are  more frequently related to words such as _gaming_, _coffee_ and _inspiration_.   
 
 First we extract the context from each sentence with associate probability (_i.e._ tweet). We use [KeyBERT](https://github.com/MaartenGr/KeyBERT).
 
