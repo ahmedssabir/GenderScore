@@ -82,7 +82,8 @@ python model_GS.py --GPT2model gpt2  --BERTmodel roberta-large-nli-stsb-mean-tok
 
 output
 ```
-a man sitting on a blue motorcycle in a parking lot, object-gender_score: 0.3145708898422527
+a man sitting on a blue motorcycle in a parking lot,  object-gender_score: 0.3145708898422527
+a woman sitting on a blue motorcycle in a parking lot, object-gender_score: 0.27773833243385865
 ```
 <!--
  ```
