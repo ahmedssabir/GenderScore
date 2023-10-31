@@ -132,12 +132,6 @@ ratio_to_m: 53.17275201306536
 ratio_to_w: 46.82724798693463
 ```
 
-For the full demo 
-
- ```
-python model_GE.py --GPT2model gpt2  --BERTmodel roberta-large-nli-stsb-mean-tokens --vis  man_motorcycle_GE/man_motorcycle_visual_context.txt --vis_prob  man_motorcycle_GE/man_motorcycle_visual_context_prob.txt --c man_motorcycle_GE/man_motorcycle_caption_MASK.txt
-For cloze sentence-gender and the caption 
-```
 
 ##  Cloze gender to caption
 
