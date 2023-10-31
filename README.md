@@ -200,21 +200,22 @@ The GS can be adapted for other languages (_e.g._ tweet or short text). Therefor
 
 
 
-<!--
+
 ## Citation
 
 
 The details of this repo are described in the following paper. If you find this repo useful, please kindly cite it:
 
 ```bibtex
-@article{sabir2022belief,
-  title={Belief Revision based Caption Re-ranker with Visual Semantic Information},
-  author={Sabir, Ahmed and Moreno-Noguer, Francesc and Madhyastha, Pranava and Padr{\'o}, Llu{\'\i}s},
-  journal={arXiv preprint arXiv:2209.08163},
-  year={2022}
+@article{sabir2023women,
+  title={Women Wearing Lipstick: Measuring the Bias Between an Object and Its Related Gender},
+  author={Sabir, Ahmed and Padr{\'o}, Llu{\'\i}s},
+  journal={arXiv preprint arXiv:2310.19130},
+  year={2023}
 }
 ```
---->
+
+
 
 <!-- <a href="https://github.com/ahmedssabir/Belief-Revision-Score">Belief-Revision-Score</a> --> 
  ### Acknowledgement
