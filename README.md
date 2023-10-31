@@ -50,7 +50,7 @@ pip install -U sentence-transformers
  ## Gender Score  
 In this work, we proposed two object-to-gender bias scores: (1) a direct Gender Score, and (2) a [ MASK ] based Gender Score Estimation. For the direct score, the model uses the visual context to predict the degree of related gender-object bias. we expain this next Example.
 
-To run the Gender score
+To run the Gender Score
 
 ```
 python model_GS.py
