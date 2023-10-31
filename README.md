@@ -65,7 +65,7 @@ parser.add_argument('--BERTmodel', default='roberta-large-nli-stsb-mean-tokens',
 ```
 
 
-**Demo for gender object (man-motorcycle)**
+To run Gender Score (e.g., man-motorcycle) we need three inputs: (1) caption, (2) object information ( _i.e._ visual bias)  and (3) confident of the object in the image  
 
 
 input
