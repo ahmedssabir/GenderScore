@@ -101,9 +101,7 @@ a man sitting on a blue motorcycle in a parking lot, gender_score: 0.31457088984
 
 <img align="center" width="400" height="300" src="COCO_val2014_000000175024.jpg">
 
-```
-python model_GE.py --GPT2model gpt2  --BERTmodel roberta-large-nli-stsb-mean-tokens --vis  man_motorcycle_GE/visual_context_demo_motorcycle.txt --vis_prob  man_motorcycle_GE/visual_context_prob_demo_motorcycle.txt --c man_motorcycle_GE/caption_demo_motorcycle_MASK.txt
-```
+
 input
 ```
 Caption: a [MASK] riding a motorcycle on a road
@@ -111,6 +109,10 @@ visual context: motor scooter
 visual context prob: 0.2183
 ```
 To extract the visual context, please refer to this [page](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main/model/Resent-152)
+
+```
+python model_GE.py --GPT2model gpt2  --BERTmodel roberta-large-nli-stsb-mean-tokens --vis  man_motorcycle_GE/visual_context_demo_motorcycle.txt --vis_prob  man_motorcycle_GE/visual_context_prob_demo_motorcycle.txt --c man_motorcycle_GE/caption_demo_motorcycle_MASK.txt
+```
 
 output
 ```
