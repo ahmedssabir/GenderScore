@@ -64,30 +64,21 @@ parser.add_argument('--GPT2model', default="gpt2", help='gpt2, gpt2-medium, gpt2
 parser.add_argument('--BERTmodel', default='roberta-large-nli-stsb-mean-tokens', help='all-mpnet-base-v2, multi-qa-mpnet-base-dot-v1, all-distilroberta-v1', type=str, required=False) 
 ```
 
+For the demo (man-motorcycle)
 
-<!--
+input
 ```
-python model_GS.py --GPT2model distilgpt2 --BERTmodel stsb-distilbert-base --vis man_motorcycle_visual_context.txt --vis_prob  man_motorcycle_visual_context_prob.txt --c man_motorcycle_caption.txt
-```
-
-input 
-```
-
-
-```
-
--->
-
- For the demo (man-motorcycle)
-<!--
- python model_GS.py --GPT2model distilgpt2 --BERTmodel stsb-distilbert-base --vis man_motorcycle_visual_context.txt --vis_prob  man_motorcycle_visual_context_prob.txt --c man_motorcycle.txt
- -->
-
-
+Caption: a man riding a motorcycle on a road
+visual context: motor scooter
+visual context prob: 0.222983188
+``` 
  ```
 python model_GS.py --GPT2model gpt2  --BERTmodel roberta-large-nli-stsb-mean-tokens --vis  man_motorcycle_GS/man_motorcycle_visual_context.txt --vis_prob  man_motorcycle_GS/man_motorcycle_visual_context_prob.txt --c man_motorcycle_GS/man_motorcycle_caption.txt
-``` 
-
+```
+output
+```
+a man sitting on a blue motorcycle in a parking lot, gender_score: 0.3114830971069185
+```
 <!--
  ```
  python model.py  --vis motorcycle_gender_demo/man_motorcycle/man_motorcycle_visual_context.txt --vis_prob motorcycle_gender_demo/man_motorcycle/man_motorcycle_visual_context_prob.txt --c motorcycle_gender_demo/man_motorcycle/man_motorcycle.txt --output result.txt
