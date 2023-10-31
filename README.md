@@ -154,7 +154,7 @@ python model_GS_cloze_gen.py  --GPT2model gpt2  --BERTmodel roberta-large-nli-st
  ```
 
 <!-- Gender Score output on this BLIP baseline without gender in the image ```COCO_val2014_000000000042.jpg: a dog laying on top of a pile of shoes``` --> 
-Gender Score output on a generated caption from the most recent baseline (BLIP-2)  without gender in the image ```COCO_val2014_000000066568.jpg: two teddy bears sitting next to each other on a desk``` with  object confidence _0.9_ with class lable _teddy bears_ in the image.
+Gender Score output on a generated caption from the most recent baseline (BLIP-2)  without gender in the image ```COCO_val2014_000000066568.jpg: two teddy bears sitting next to each other on a desk``` with  object confidence _0.9_ with class label  _teddy bears_ in the image.
 
 
 
