@@ -48,8 +48,14 @@ pip install -U sentence-transformers
 
 
  ## Gender Score  
-In this work, we proposed two object-to-gender bias scores: (1) a direct Gender Score, and (2) a [ MASK ] based Gender Score Estimation. For the direct score, the model uses the visual context to predict the degree of related gender-object bias.
- 
+In this work, we proposed two object-to-gender bias scores: (1) a direct Gender Score, and (2) a [ MASK ] based Gender Score Estimation. For the direct score, the model uses the visual context to predict the degree of related gender-object bias. we expain this next Example.
+
+To run the Gender score
+
+```
+python model_GS.py
+```
+using any pre-trained models as follows:
 ```
 parser.add_argument('--vis', default='visual-context_label.txt',help='class-label from the classifier (CLIP)', type=str, required=True)  
 parser.add_argument('--vis_prob', default='visual-context.txt', help='prob from the classifier (Resent152/CLIP)', type=str, required=True) 
@@ -58,23 +64,31 @@ parser.add_argument('--GPT2model', default="gpt2", help='gpt2, gpt2-medium, gpt2
 parser.add_argument('--BERTmodel', default='roberta-large-nli-stsb-mean-tokens', help='all-mpnet-base-v2, multi-qa-mpnet-base-dot-v1, all-distilroberta-v1', type=str, required=False) 
 ```
 
+Next, a demo of how to run Gender Score
+
+ **Example**
+
+<img align="center" width="400" height="300" src="COCO_val2014_000000175024.jpg">
 
 <!--
 ```
 python model_GS.py --GPT2model distilgpt2 --BERTmodel stsb-distilbert-base --vis man_motorcycle_visual_context.txt --vis_prob  man_motorcycle_visual_context_prob.txt --c man_motorcycle_caption.txt
 ```
 
+input 
+```
 
- ```
- python model.py --lm LM.txt --vis visual_context_label.txt --vis_prob visual_context_prob.txt --c caption.txt
- 
-``` 
+
+```
+
 -->
 
  For the demo (man-motorcycle)
 <!--
  python model_GS.py --GPT2model distilgpt2 --BERTmodel stsb-distilbert-base --vis man_motorcycle_visual_context.txt --vis_prob  man_motorcycle_visual_context_prob.txt --c man_motorcycle.txt
  -->
+
+
  ```
 python model_GS.py --GPT2model gpt2  --BERTmodel roberta-large-nli-stsb-mean-tokens --vis  man_motorcycle_GS/man_motorcycle_visual_context.txt --vis_prob  man_motorcycle_GS/man_motorcycle_visual_context_prob.txt --c man_motorcycle_GS/man_motorcycle_caption.txt
 ``` 
@@ -93,9 +107,9 @@ python model_GS.py --GPT2model gpt2  --BERTmodel roberta-large-nli-stsb-mean-tok
  python model_GE.py --GPT2model distilgpt2  --BERTmodel stsb-distilbert-base --vis  man_motorcycle_GE/visual_context_demo_motorcycle.txt --vis_prob  man_motorcycle_GE/visual_context_prob_demo_motorcycle.txt --c man_motorcycle_GE/caption_demo_motorcycle_MASK.txt
  -->
  **Example**
-
+<!--
 <img align="center" width="400" height="300" src="COCO_val2014_000000175024.jpg">
-
+-->
 ```
 python model_GE.py --GPT2model gpt2  --BERTmodel roberta-large-nli-stsb-mean-tokens --vis  man_motorcycle_GE/visual_context_demo_motorcycle.txt --vis_prob  man_motorcycle_GE/visual_context_prob_demo_motorcycle.txt --c man_motorcycle_GE/caption_demo_motorcycle_MASK.txt
 ```
