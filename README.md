@@ -19,11 +19,11 @@ In this paper, we investigate the impact of objects on gender bias in image capt
 
  
  
- This repository contains the  implementation of the paper  [Women Wearing Lipstick: Measuring the Bias Between an Object and Its Related Gender](). EMNLP Findings 2023
+ This repository contains the  implementation of the paper  [Women Wearing Lipstick: Measuring the Bias Between an Object and Its Related Gender](https://arxiv.org/abs/2310.19130). EMNLP Findings 2023
  
- [![arXiv](https://img.shields.io/badge/arXiv-2310.00843-b31b1b.svg)](https://arxiv.org/abs/2810.00843) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ahmed.jp/project_page/gender_score_2023/index.html)
+ [![arXiv](https://img.shields.io/badge/arXiv-2310.19130-b31b1b.svg)](https://arxiv.org/abs/2310.19130) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ahmed.jp/project_page/gender_score_2023/index.html)
  
- 
+
 
 
 
