@@ -175,9 +175,11 @@ kw_model = KeyBERT()
 kw_model.extract_keywords(sentence, keyphrase_ngram_range=(1, 1), stop_words=None)
 
 Keywords
-[('loyalty', 0.5631),
+[('loyalty', 0.5631), top-k
  ('blood', 0.5612),
  ('family', 0.4476),..]
+
+Also, the average of all contexts can be used:
 
 Top-3 average bias_context_prob = 0.5239 
 ``` 
