@@ -109,13 +109,13 @@ Output
 # object-to-m bias 
 caption_m a man riding a motorcycle on a road
 LM: 0.12759140133857727
-cosine score (sim): 0.5452305674552917
+cosine distance score (sim): 0.5452305674552917
 score_m: 0.45320714150193153
 
 # object-to-w bias 
 caption_w a woman riding a motorcycle on a road
 LM: 0.11249390989542007
-cosine score (sim): 0.5037289261817932
+cosine distance score (sim): 0.5037289261817932
 score_w: 0.39912252800731546
 
 # most object-to-gender bias 
