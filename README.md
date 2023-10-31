@@ -64,11 +64,14 @@ parser.add_argument('--GPT2model', default="gpt2", help='gpt2, gpt2-medium, gpt2
 parser.add_argument('--BERTmodel', default='roberta-large-nli-stsb-mean-tokens', help='all-mpnet-base-v2, multi-qa-mpnet-base-dot-v1, all-distilroberta-v1', type=str, required=False) 
 ```
 
-For the demo (man-motorcycle)
+
+**Demo for gender object (man-motorcycle)**
+
 
 input
+
 ```
-Caption: a man riding a motorcycle on a road
+Caption: a man sitting on a blue motorcycle in a parking lot
 visual context: motor scooter
 visual context prob: 0.222983188
 ``` 
@@ -77,7 +80,7 @@ python model_GS.py --GPT2model gpt2  --BERTmodel roberta-large-nli-stsb-mean-tok
 ```
 output
 ```
-a man sitting on a blue motorcycle in a parking lot, gender_score: 0.3114830971069185
+a man sitting on a blue motorcycle in a parking lot, gender_score: 0.3145708898422527
 ```
 <!--
  ```
