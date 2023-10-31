@@ -47,6 +47,9 @@ pip install -U sentence-transformers
 ``` 
 
 
+ ## Gender Score  
+In this work, we proposed two object-to-gender bias scores: (1) a direct Gender Score, and (2) a [ MASK ] based Gender Score Estimation. For the direct score, the model uses the visual context to predict the degree of related gender-object bias.
+ 
 ```
 parser.add_argument('--vis', default='visual-context_label.txt',help='class-label from the classifier (CLIP)', type=str, required=True)  
 parser.add_argument('--vis_prob', default='visual-context.txt', help='prob from the classifier (Resent152/CLIP)', type=str, required=True) 
@@ -68,7 +71,6 @@ python model_GS.py --GPT2model distilgpt2 --BERTmodel stsb-distilbert-base --vis
 ``` 
 -->
 
- 
  For the demo (man-motorcycle)
 <!--
  python model_GS.py --GPT2model distilgpt2 --BERTmodel stsb-distilbert-base --vis man_motorcycle_visual_context.txt --vis_prob  man_motorcycle_visual_context_prob.txt --c man_motorcycle.txt
@@ -84,7 +86,7 @@ python model_GS.py --GPT2model gpt2  --BERTmodel roberta-large-nli-stsb-mean-tok
  -->
  
  ## Gender Score Estimation  
-In this work, we proposed two object-to-gender bias scores: (1) a direct Gender Score, and (2) a [ MASK ] based Gender Score Estimation. For the direct score, the model uses the visual context to predict the degree of related gender-object bias. Additionally, inspired by the Mask Language Model, the model can estimate the Mask gender using the relation between the caption and object information from the image. 
+ Additionally, inspired by the Mask Language Model, the model can estimate the Mask gender using the relation between the caption and object information from the image. 
 
  <!-- 
  
