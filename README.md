@@ -166,6 +166,9 @@ First we extract the context from each sentence with associate probability (_i.e
 
 <!-- <a href="https://github.com/ahmedssabir/Belief-Revision-Score">Belief-Revision-Score</a> --> 
 
+1- [Cloze prob based Context](https://github.com/ahmedssabir/GenderScore/blob/main/paper_demo/gender_score_twitter_demo.ipynb)
+
+2- Probability of the context:
 ```
 from keybert import KeyBERT
 
