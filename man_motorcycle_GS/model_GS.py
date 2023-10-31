@@ -34,19 +34,6 @@ def get_lines(file_path):
     with open(file_path) as f:
             return f.read().strip().split('\n')
 
-def get_sim(x):
-    x =  str(x)[1:-1]
-    x =  str(x)[1:-1]
-    return x
-
-
-   
-def Ratio(woman, man):
-    man_score = float(man)
-    woman_score= float(woman)
-    
-    return (man_score)/(man_score + woman_score) * 100 
-
         
 def Gender_score(caption, visual_context_label, visual_context_prob):
     
@@ -56,33 +43,37 @@ def Gender_score(caption, visual_context_label, visual_context_prob):
     print("LM:", LM)
     sim = util.pytorch_cos_sim(caption_emb, visual_context_label_emb)    
     sim = sim.cpu().numpy()
-    sim = get_sim(sim)
+    sim = sim.item()
     print("sim:", sim)
     score = pow(float(LM),pow((1-float(sim))/(1+ float(sim)),1-float(visual_context_prob)))
      
     return score
 
                              
-input_path = 'gender_score_output.txt'
+output_path = 'gender_score_output.txt'
 # compute visual context
-f=open(input_path, "w")
+f=open(output_path, "w")
 for i in range(len(get_lines(args.c))):
     temp =[]
 
     visual_context_label = get_lines(args.vis)[i]
     visual_context_prob = get_lines(args.vis_prob)[i]
     caption = get_lines(args.c)[i]
-  
+   
     score  =  Gender_score(caption, visual_context_label, visual_context_prob)
-                   
+    print("gender score:", score)                  
     temp.append(score)
   
-    
+  
     result = ','.join((str(caption), 'gender_score: '+str(score)))         
     result = re.sub(r'\s*,\s*', ',', result) 
 
     f.write(result)
     f.write('\n')
-
-        
 f.close()
+
+
+if __name__ == "__main__":
+    Gender_score(caption, visual_context_label, visual_context_prob)
+    print("Done!")
+      
