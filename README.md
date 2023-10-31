@@ -76,8 +76,10 @@ visual context: motor scooter
 visual context prob: 0.222983188
 ``` 
  ```
-python model_GS.py --GPT2model gpt2  --BERTmodel roberta-large-nli-stsb-mean-tokens --vis  man_motorcycle_GS/man_motorcycle_visual_context.txt --vis_prob  man_motorcycle_GS/man_motorcycle_visual_context_prob.txt --c man_motorcycle_GS/man_motorcycle_caption.txt
+python model_GS.py --GPT2model gpt2  --BERTmodel roberta-large-nli-stsb-mean-tokens --vis  man_motorcycle_GS/visual_context_demo_motorcycle.txt --vis_prob  man_motorcycle_GS/visual_context_prob_demo_motorcycle.txt --c man_motorcycle_GS/caption_demo_motorcycle_MASK.txt
 ```
+<!-- python model_GS.py --GPT2model gpt2  --BERTmodel roberta-large-nli-stsb-mean-tokens --vis  man_motorcycle_GS/man_motorcycle_visual_context.txt --vis_prob  man_motorcycle_GS/man_motorcycle_visual_context_prob.txt --c man_motorcycle_GS/man_motorcycle_caption.txt -->
+
 output
 ```
 a man sitting on a blue motorcycle in a parking lot, gender_score: 0.3145708898422527
