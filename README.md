@@ -64,11 +64,6 @@ parser.add_argument('--GPT2model', default="gpt2", help='gpt2, gpt2-medium, gpt2
 parser.add_argument('--BERTmodel', default='roberta-large-nli-stsb-mean-tokens', help='all-mpnet-base-v2, multi-qa-mpnet-base-dot-v1, all-distilroberta-v1', type=str, required=False) 
 ```
 
-Next, a demo of how to run Gender Score
-
- **Example**
-
-<img align="center" width="400" height="300" src="COCO_val2014_000000175024.jpg">
 
 <!--
 ```
@@ -107,9 +102,9 @@ python model_GS.py --GPT2model gpt2  --BERTmodel roberta-large-nli-stsb-mean-tok
  python model_GE.py --GPT2model distilgpt2  --BERTmodel stsb-distilbert-base --vis  man_motorcycle_GE/visual_context_demo_motorcycle.txt --vis_prob  man_motorcycle_GE/visual_context_prob_demo_motorcycle.txt --c man_motorcycle_GE/caption_demo_motorcycle_MASK.txt
  -->
  **Example**
-<!--
+
 <img align="center" width="400" height="300" src="COCO_val2014_000000175024.jpg">
--->
+
 ```
 python model_GE.py --GPT2model gpt2  --BERTmodel roberta-large-nli-stsb-mean-tokens --vis  man_motorcycle_GE/visual_context_demo_motorcycle.txt --vis_prob  man_motorcycle_GE/visual_context_prob_demo_motorcycle.txt --c man_motorcycle_GE/caption_demo_motorcycle_MASK.txt
 ```
