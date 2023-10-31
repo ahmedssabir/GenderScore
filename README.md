@@ -65,7 +65,7 @@ parser.add_argument('--BERTmodel', default='roberta-large-nli-stsb-mean-tokens',
 ```
 
 
-To run Gender Score (_e.g._ man-motorcycle) we need three inputs: (1) caption, (2) object information ( _i.e._ visual bias)  and (3) confident of the bias object in the image.  
+To run Gender Score (_e.g._ man-motorcycle) we need three inputs: (1) caption, (2) object information ( _i.e._ visual bias)  and (3) confident of the bias object in the image.  To extract the visual context, please refer to this [page](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main/model/Resent-152)
 
 
 input
@@ -109,7 +109,7 @@ Caption: a [MASK] riding a motorcycle on a road
 visual context: motor scooter
 visual context prob: 0.2183
 ```
-To extract the visual context, please refer to this [page](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main/model/Resent-152)
+
 
 ```
 python model_GE.py --GPT2model gpt2  --BERTmodel roberta-large-nli-stsb-mean-tokens --vis  man_motorcycle_GE/visual_context_demo_motorcycle.txt --vis_prob  man_motorcycle_GE/visual_context_prob_demo_motorcycle.txt --c man_motorcycle_GE/caption_demo_motorcycle_MASK.txt
