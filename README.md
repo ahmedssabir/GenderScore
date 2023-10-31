@@ -149,8 +149,8 @@ In this section, we hypothesize that every image has a gender ∈ {man, woman} o
 python model_GS_cloze_gen.py  --GPT2model gpt2  --BERTmodel roberta-large-nli-stsb-mean-tokens --vis  GS-cloze-gender_demo/visual_context_demo.txt --vis_prob  GS-cloze-gender_demo/visual_context_prob_demo.txt --c GS-cloze-gender_demo/caption_demo.txt
  ```
 
-<!-- Gender-Bias output on this BLIP baseline without gender in the image ```COCO_val2014_000000000042.jpg: a dog laying on top of a pile of shoes``` --> 
-Gender-bias output on a generated caption from the most recent baseline (BLIP-2)  without gender in the image ```COCO_val2014_000000066568.jpg: two teddy bears sitting next to each other on a desk```
+<!-- Gender Score output on this BLIP baseline without gender in the image ```COCO_val2014_000000000042.jpg: a dog laying on top of a pile of shoes``` --> 
+Gender Score output on a generated caption from the most recent baseline (BLIP-2)  without gender in the image ```COCO_val2014_000000066568.jpg: two teddy bears sitting next to each other on a desk```
 
 
 
