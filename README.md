@@ -91,7 +91,7 @@ a man sitting on a blue motorcycle in a parking lot,  object-gender_score: 0.314
  -->
  
  ## Gender Score Estimation  
- Additionally, inspired by the Mask Language Model, the model can estimate the Mask gender using the relation between the caption and object information from the image. 
+ Additionally, inspired by the Mask Language Model, the model can estimate the Mask gender using the bias relation between the gender and object information from the image. 
 
  <!-- 
  
