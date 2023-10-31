@@ -48,7 +48,7 @@ pip install -U sentence-transformers
 
 
  ## Gender Score  
-In this work, we proposed two object-to-gender bias scores: (1) a direct Gender Score, and (2) a [ MASK ] based Gender Score Estimation. For the direct score, the model uses the visual context to predict the degree of related gender-object bias. we expain this next Example.
+In this work, we proposed two object-to-gender bias scores: (1) a direct Gender Score, and (2) a [ MASK ] based Gender Score Estimation. For the direct score, the model uses the visual context to predict the degree of related gender-object bias. 
 
 To run the Gender Score
 
@@ -82,7 +82,7 @@ python model_GS.py --GPT2model gpt2  --BERTmodel roberta-large-nli-stsb-mean-tok
 
 output
 ```
-a man sitting on a blue motorcycle in a parking lot, gender_score: 0.3145708898422527
+a man sitting on a blue motorcycle in a parking lot, object-gender_score: 0.3145708898422527
 ```
 <!--
  ```
