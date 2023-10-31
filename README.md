@@ -135,7 +135,7 @@ ratio_to_w: 46.82724798693463
 ```
 
 
-##  Cloze gender to caption
+## Gender Score based Cloze Gender to Caption 
 
 In this section, we hypothesize that every image has a gender ∈ {man, woman} or gender-neutral _person_, and we want to explore all the cases and let the proposed distance/score **decide** which gender (_i.e. bias_) is in the image based on a **visual bias** from the caption. In particular, inspired by the cloze probability last word completion task, we generate two identical sentences but with a different gender, and then we compute the Gender Score between the sentence gender and the caption using the object probability(_i.e._ object confidence in the image). 
 
@@ -163,7 +163,7 @@ gender score m: 0.31807795162729513
 gender score w: 0.3182200321892468
 ```
 
-## Gender Score for non-visual task: gender bias in twitter 
+## Gender Score for Non-Visual Task: Gender Bias in Twitter 
 In this section, we apply our proposed Gender Score to a subset of the Twitter user gender classification dataset. We use a BERT based keyword extractor  to extract the biased context from the sentence (_e.g._ travel-man, woman-family), and we then employ  the cloze probability to extract the probability of the context. We observe  that there are some keywords that have a strong  bias: women are associated with keywords such as _novel_, _beauty_, and _hometown_. Meanwhile, men are  more frequently related to words such as _gaming_, _coffee_, and _inspiration_.   
 
 First we extract the context from each sentence with associate probability (_i.e._ tweet). We use [KeyBERT](https://github.com/MaartenGr/KeyBERT).
