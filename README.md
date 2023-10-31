@@ -133,7 +133,7 @@ For cloze sentence-gender and the caption
 
 ##  Cloze gender to caption
 
-In this section, we hypothesize that every image has a gender ∈ {man, woman} or gender-neutral _person_, and we want to explore all the cases and let the proposed distance/score **decide** which gender (_i.e. bias_) is in the image based on a **visual bias** from the caption. In particular, inspired by the cloze probability last word completion task, we generate two identical sentences but with a different gender, and then we compute the Gender Score between the sentence gender and the caption using the object probability. 
+In this section, we hypothesize that every image has a gender ∈ {man, woman} or gender-neutral _person_, and we want to explore all the cases and let the proposed distance/score **decide** which gender (_i.e. bias_) is in the image based on a **visual bias** from the caption. In particular, inspired by the cloze probability last word completion task, we generate two identical sentences but with a different gender, and then we compute the Gender Score between the sentence gender and the caption using the object probability(_i.e._ object confidence in the image). 
 
 
 ## Example
@@ -150,7 +150,7 @@ python model_GS_cloze_gen.py  --GPT2model gpt2  --BERTmodel roberta-large-nli-st
  ```
 
 <!-- Gender Score output on this BLIP baseline without gender in the image ```COCO_val2014_000000000042.jpg: a dog laying on top of a pile of shoes``` --> 
-Gender Score output on a generated caption from the most recent baseline (BLIP-2)  without gender in the image ```COCO_val2014_000000066568.jpg: two teddy bears sitting next to each other on a desk```
+Gender Score output on a generated caption from the most recent baseline (BLIP-2)  without gender in the image ```COCO_val2014_000000066568.jpg: two teddy bears sitting next to each other on a desk``` with  object confidence _0.9_ with class lable _teddy bears_ in the image.
 
 
 
