@@ -39,16 +39,6 @@ def get_sim(x):
     x =  str(x)[1:-1]
     return x
 
-# def fill_mask(sentence, score_dict):
-#     words = sentence.split()
-#     max_score = -1
-#     max_word = None
-#     for word in score_dict:
-#         if score_dict[word] > max_score:
-#             max_score = score_dict[word]
-#             max_word = word
-#     filled_sentence = sentence.replace("[MASK]", max_word)
-#     return filled_sentence
 
    
 def Ratio(woman, man):
@@ -82,29 +72,9 @@ for i in range(len(get_lines(args.c))):
     visual_context_label = get_lines(args.vis)[i]
     visual_context_prob = get_lines(args.vis_prob)[i]
     caption = get_lines(args.c)[i]
-    
-    # fill with both gender 
-    #gender = 0  
-    
-    # man_score  
-    #caption_m = fill_mask(caption_MASK, {"man": gender })
-    #print(caption_m)
+  
     score  =  Gender_score(caption, visual_context_label, visual_context_prob)
-    #print('score_m:', score_m)   
-    
-    
-    # woman_score
-    # caption_w = fill_mask(caption_MASK ,{"woman":gender })
-    # print(caption_w)
-    # score_w =  Gender_score(caption_w, visual_context_label, visual_context_prob)
- 
-    
-    # final_score = fill_mask(caption_MASK, {"man": score_m, "woman": score_w})
-    # gender_score = max(score_m, score_w)  
-    # ratio_to_m = Ratio(score_m, score_w)
-    # ratio_to_w = Ratio(score_w, score_m)
-    # print('ratio_to_m:', ratio_to_m)
-    # print('ratio_to_w:', ratio_to_w)                     
+                   
     temp.append(score)
   
     
