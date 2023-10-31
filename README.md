@@ -110,7 +110,7 @@ visual context prob: 0.2183
 ```
 To extract the visual context, please refer to this [page](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main/model/Resent-152)
 
-Output
+output
 ```
 # object-to-m bias 
 caption_m a man riding a motorcycle on a road
