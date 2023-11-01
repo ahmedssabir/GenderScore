@@ -40,11 +40,11 @@ def Gender_score(caption, visual_context_label, visual_context_prob):
     caption_emb = model.encode(caption, convert_to_tensor=True)
     visual_context_label_emb = model.encode(visual_context_label, convert_to_tensor=True)
     LM  = scorer.sentence_score(caption, reduce="mean")
-    print("LM:", LM)
+    #print("LM:", LM)
     sim = util.pytorch_cos_sim(caption_emb, visual_context_label_emb)    
     sim = sim.cpu().numpy()
     sim = sim.item()
-    print("sim:", sim)
+    #print("sim:", sim)
     score = pow(float(LM),pow((1-float(sim))/(1+ float(sim)),1-float(visual_context_prob)))
      
     return score
@@ -61,12 +61,13 @@ for i in range(len(get_lines(args.c))):
     caption = get_lines(args.c)[i]
    
     score  =  Gender_score(caption, visual_context_label, visual_context_prob)
-    print("gender score:", score)                  
+    #print("gender score:", score)                  
     temp.append(score)
   
   
     result = ','.join((str(caption), 'gender_score: '+str(score)))         
-    result = re.sub(r'\s*,\s*', ',', result) 
+    result = re.sub(r'\s*,\s*', ',', result)
+    print(result)
 
     f.write(result)
     f.write('\n')
