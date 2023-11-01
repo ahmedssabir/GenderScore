@@ -80,7 +80,7 @@ python model_GS.py --GPT2model gpt2  --BERTmodel roberta-large-nli-stsb-mean-tok
 ```
 <!-- python model_GS.py --GPT2model gpt2  --BERTmodel roberta-large-nli-stsb-mean-tokens --vis  man_motorcycle_GS/man_motorcycle_visual_context.txt --vis_prob  man_motorcycle_GS/man_motorcycle_visual_context_prob.txt --c man_motorcycle_GS/man_motorcycle_caption.txt -->
 
-output
+output ``gender_score_output.txt``
 ```
 a man sitting on a blue motorcycle in a parking lot,  object-gender_score: 0.3145708898422527
 ```
