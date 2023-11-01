@@ -111,14 +111,14 @@ output
 ```
 # object-to-m bias 
 caption_m a man riding a motorcycle on a road
-LM: 0.12759140133857727
-cosine distance score (sim): 0.5452305674552917
+LM: 0.12759140133857727 # initial bias without visual
+cosine distance score (sim): 0.5452305674552917 # gender object distance 
 gender score_m: 0.45320714150193153
 
 # object-to-w bias 
 caption_w a woman riding a motorcycle on a road
-LM: 0.11249390989542007
-cosine distance score (sim): 0.5037289261817932
+LM: 0.11249390989542007 # initial bias without visual
+cosine distance score (sim): 0.5037289261817932 # gender object distance 
 gender score_w: 0.39912252800731546
 
 # most object-to-gender bias 
