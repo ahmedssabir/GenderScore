@@ -1,5 +1,4 @@
-## Gender score  for twitter  (Japanese)
-
+## Gender Score based Cloze Gender for Non-Visual Task (Japanese Twitter)
 
 ### Requirements
 - Python 3.7
