@@ -1,14 +1,8 @@
 # Women Wearing Lipstick: Measuring the Bias Between an Object and Its Related Gender
 
-
-
- 
  <img src="overview_bias.png"> 
 
-  
-
-
-
+ 
 ## Overview 
 In this paper, we investigate the impact of objects on gender bias in image captioning systems. Our results show that only gender-specific objects have a strong gender bias (_e.g._ <em>woman-lipstick</em>). In addition, 
       we propose a visual semantic-based gender score that measures the degree of bias and can be used as a plug-in for any image captioning system. Our experiments demonstrate the utility of the gender score, since 
@@ -63,7 +57,7 @@ parser.add_argument('--BERTmodel', default='roberta-large-nli-stsb-mean-tokens',
 ```
 
 
-To run Gender Score (_e.g._ man-motorcycle) we need three inputs: (1) caption $y$ with the associated gender $a$ as in ($y_{a}$), (2) object information $o$ (_i.e._ visual bias) extracted from the image $I$, as $o(I)$,  and (3) $\text{P}(c_{o})$ probability confidence of the object _i.e._ bias in the image.  (to extract the object visual information, please refer to this [page](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main/model/Resent-152))
+To run Gender Score (_e.g._ man-motorcycle) we need three inputs: (1) caption $y$ with the associated gender $a$ as in ($y_{a}$), (2) object information $o$ (_i.e._ visual bias) extracted from the image $I$, as $o(I)$,  and (3) $\text{P}(c_{o})$ probability confidence of the object _i.e._ bias in the image.  (to extract the object visual information, please refer to this [page](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main/model/Resent-152)).
 
 
 input
