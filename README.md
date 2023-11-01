@@ -84,7 +84,7 @@ output ``gender_score_output.txt``
 ```
 a man sitting on a blue motorcycle in a parking lot,  object-gender_score: 0.3145708898422527
 ```
-By computing the object-gender_score for women = 0.27773833243385865, we can compute the object-to-gender bias ratio toward men at 53%.
+By computing the object-gender_score for women = 0.27773833243385865, we can estimate the object-to-gender bias ratio toward men at 53%.
 <!--
  ```
  python model.py  --vis motorcycle_gender_demo/man_motorcycle/man_motorcycle_visual_context.txt --vis_prob motorcycle_gender_demo/man_motorcycle/man_motorcycle_visual_context_prob.txt --c motorcycle_gender_demo/man_motorcycle/man_motorcycle.txt --output result.txt
