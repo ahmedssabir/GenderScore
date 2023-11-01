@@ -65,7 +65,7 @@ parser.add_argument('--BERTmodel', default='roberta-large-nli-stsb-mean-tokens',
 ```
 
 
-To run Gender Score (_e.g._ man-motorcycle) we need three inputs: (1) caption, (2) object information ( _i.e._ visual bias),  and (3) confident of the bias object in the image.  To extract the visual context, please refer to this [page](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main/model/Resent-152)
+To run Gender Score (_e.g._ man-motorcycle) we need three inputs: (1) caption, (2) object information ( _i.e._ visual bias),  and (3) probability confident of the bias object in the image.  To extract the visual context, please refer to this [page](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main/model/Resent-152)
 
 
 input
@@ -76,7 +76,7 @@ visual context: motor scooter
 visual context prob: 0.222983188
 ``` 
  ```
-python model_GS.py --GPT2model gpt2  --BERTmodel roberta-large-nli-stsb-mean-tokens --vis  man_motorcycle_GS/visual_context_demo_motorcycle.txt --vis_prob  man_motorcycle_GS/visual_context_prob_demo_motorcycle.txt --c man_motorcycle_GS/caption_demo_motorcycle_MASK.txt
+python model_GS.py --GPT2model gpt2  --BERTmodel roberta-large-nli-stsb-mean-tokens --vis  man_motorcycle_GS/man_motorcycle_visual_context.txt --vis_prob  man_motorcycle_GS/man_motorcycle_visual_context_prob.txt --c man_motorcycle_GS/man_motorcycle_caption.txt
 ```
 <!-- python model_GS.py --GPT2model gpt2  --BERTmodel roberta-large-nli-stsb-mean-tokens --vis  man_motorcycle_GS/man_motorcycle_visual_context.txt --vis_prob  man_motorcycle_GS/man_motorcycle_visual_context_prob.txt --c man_motorcycle_GS/man_motorcycle_caption.txt -->
 
@@ -84,6 +84,7 @@ output
 ```
 a man sitting on a blue motorcycle in a parking lot,  object-gender_score: 0.3145708898422527
 ```
+By computing the object-gender_score for women = 0.27773833243385865, we can compute the object-to-gender bias ratio toward men at 53%.
 <!--
  ```
  python model.py  --vis motorcycle_gender_demo/man_motorcycle/man_motorcycle_visual_context.txt --vis_prob motorcycle_gender_demo/man_motorcycle/man_motorcycle_visual_context_prob.txt --c motorcycle_gender_demo/man_motorcycle/man_motorcycle.txt --output result.txt
