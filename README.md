@@ -65,7 +65,7 @@ parser.add_argument('--BERTmodel', default='roberta-large-nli-stsb-mean-tokens',
 ```
 
 
-To run Gender Score (_e.g._ man-motorcycle) we need three inputs: (1) caption, (2) object information ( _i.e._ visual bias),  and (3) probability confident of the bias object in the image.  To extract the visual context, please refer to this [page](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main/model/Resent-152)
+To run Gender Score (_e.g._ man-motorcycle) we need three inputs: (1) caption, (2) object information ( _i.e._ visual bias),  and (3) probability confidence of the object _i.e._ bias in the image.  To extract the visual context, please refer to this [page](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main/model/Resent-152)
 
 
 input
@@ -138,7 +138,7 @@ ratio_to_w: 46.82724798693463
 
 ## Gender Score based Cloze Gender 
 
-In this section, we hypothesize that every image has a gender ∈ {man, woman} or gender-neutral _person_, and we want to explore all the cases and let the proposed distance/score **decide** which gender (_i.e. bias_) is in the image based on a **visual bias** from the caption. In particular, inspired by the cloze probability last word completion task, we generate two identical sentences but with a different gender, and then we compute the Gender Score between the sentence gender and the caption using the object probability(_i.e._ object confidence in the image). 
+In this section, we hypothesize that every image has a gender ∈ {man, woman} or gender-neutral _person_, and we want to explore all the cases and let the proposed distance/score **decide** which gender (_i.e. bias_) is in the image based on a **visual bias** from the caption. In particular, inspired by the cloze probability last word completion task, we generate two identical sentences but with a different gender, and then we compute the Gender Score between the sentence gender and the caption using the object probability (_i.e._ object confidence in the image). 
 
 
  **Example**
