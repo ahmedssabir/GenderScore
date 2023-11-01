@@ -63,7 +63,7 @@ parser.add_argument('--BERTmodel', default='roberta-large-nli-stsb-mean-tokens',
 ```
 
 
-To run Gender Score (_e.g._ man-motorcycle) we need three inputs: (1) caption, (2) object information (_i.e._ visual bias),  and (3) probability confidence of the object _i.e._ bias in the image.  To extract the visual context, please refer to this [page](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main/model/Resent-152)
+To run Gender Score (_e.g._ man-motorcycle) we need three inputs: (1) caption, (2) object information (_i.e._ visual bias),  and (3) probability confidence of the object _i.e._ bias in the image.  (To extract the visual context, please refer to this [page](https://github.com/ahmedssabir/Belief-Revision-Score/tree/main/model/Resent-152))
 
 
 input
