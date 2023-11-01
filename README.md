@@ -136,7 +136,7 @@ ratio_to_w: 46.82724798693463
 
 ## Gender Score based Cloze Gender 
 
-In this section, we hypothesize that every image has a gender $\in$ {man, woman} or gender-neutral _person_, and we want to explore all the cases and let the proposed distance/score **decide** which gender (_i.e. bias_) is in the image based on a **visual bias** from the caption. In particular, inspired by the cloze probability last word completion task, we generate two identical sentences but with a different gender, and then we compute the Gender Score between the sentence gender and the caption using the object probability (_i.e._ object confidence in the image). 
+In this section, we hypothesize that every image has a gender $a'$ $\in$ {man, woman} or gender-neutral _person_, and we want to explore all the cases and let the proposed distance/score **decide** which gender (_i.e. bias_) is in the image based on a **visual bias** from the caption. In particular, inspired by the cloze probability last word completion task, we generate two identical sentences but with a different gender, and then we compute the Gender Score between the sentence gender and the caption using the object probability (_i.e._ object confidence in the image). 
 
 
  **Example**
