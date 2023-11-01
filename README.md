@@ -162,7 +162,7 @@ gender score m: 0.31807795162729513
 gender score w: 0.3182200321892468
 ```
 
-## Gender Score for Non-Visual Task: Gender Bias in Twitter 
+## Gender Score based Cloze Gender for Non-Visual Task
 In this section, we apply our proposed Gender Score to a subset of the Twitter user gender classification dataset. We use a BERT based keyword extractor  to extract the biased context from the sentence (_e.g._ travel-man, woman-family), and we then employ  the cloze probability to extract the probability of the context. We observe  that there are some keywords that have a strong  bias: women are associated with keywords such as _novel_, _beauty_, and _hometown_. Meanwhile, men are  more frequently related to words such as _gaming_, _coffee_, and _inspiration_.   
 
 First we extract the context from each sentence with associate probability (_i.e._ tweet). We use [KeyBERT](https://github.com/MaartenGr/KeyBERT).
@@ -202,7 +202,7 @@ sentence: blood makes you related. Loyalty makes you family. [predicted bias-gen
 GT: m
 ```
 
-The GS can be adapted for other languages (_e.g._ tweet or short text). Therefore, We also [adopt this score](GS_twitter_demo_jp) to the **Japanese language**. <!-- Please refer to this demo for fast start [huggingface demo (JP)](https://huggingface.co) -->
+The GS based Cloze Gender can be adapted for other languages (_e.g._ tweet or short text). Therefore, We also [adopt this score](GS_twitter_demo_jp) to the **Japanese language**. <!-- Please refer to this demo for fast start [huggingface demo (JP)](https://huggingface.co) -->
 
 
 
