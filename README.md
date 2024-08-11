@@ -128,7 +128,7 @@ ratio_to_m: 53.17275201306536
 ratio_to_w: 46.82724798693463
 ```
 
-
+<!-- 
 ## Gender Score based Cloze Gender 
 
 In this section, we hypothesize that every image has a gender $a'$ $\in$ {man, woman} or gender-neutral _person_, and we want to explore all the cases and let the proposed distance/score **decide** which gender (_i.e. bias_) is in the image based on a **visual bias** from the caption. In particular, inspired by the cloze probability last word completion task, we generate two identical sentences but with a different gender, and then we compute the Gender Score between the sentence gender and the caption using the object probability (_i.e._ object confidence in the image). 
@@ -136,7 +136,7 @@ In this section, we hypothesize that every image has a gender $a'$ $\in$ {man, w
 
  **Example**
 
-<!-- <img align="center" width="400" height="200" src="COCO_val2014_000000000042.jpg"> -->
+
 
 <img align="center" width="400" height="300" src="COCO_val2014_000000066568.jpg">
 
@@ -147,7 +147,6 @@ In this section, we hypothesize that every image has a gender $a'$ $\in$ {man, w
 python model_GS_cloze_gen.py  --GPT2model gpt2  --BERTmodel roberta-large-nli-stsb-mean-tokens --vis  GS-cloze-gender_demo/visual_context_demo.txt --vis_prob  GS-cloze-gender_demo/visual_context_prob_demo.txt --c GS-cloze-gender_demo/caption_demo.txt
  ```
 
-<!-- Gender Score output on this BLIP baseline without gender in the image ```COCO_val2014_000000000042.jpg: a dog laying on top of a pile of shoes``` --> 
 Gender Score output on a generated caption from the most recent baseline (BLIP-2)  without gender in the image ```COCO_val2014_000000066568.jpg: two teddy bears sitting next to each other on a desk``` with  object confidence _0.9_ with class label  _teddy bears_ in the image.
 
 
@@ -162,7 +161,7 @@ In this section, we apply our proposed Gender Score to a subset of the Twitter u
 
 First we extract the context from each sentence with associate probability (_i.e._ tweet). We use [KeyBERT](https://github.com/MaartenGr/KeyBERT).
 
-<!-- <a href="https://github.com/ahmedssabir/Belief-Revision-Score">Belief-Revision-Score</a> --> 
+
 
 1- [Cloze prob based Context](https://github.com/ahmedssabir/GenderScore/blob/main/paper_demo/gender_score_twitter_demo.ipynb)
 
@@ -188,7 +187,7 @@ Top-3 average bias_context_prob = 0.5239
 ```
 python GS_cloze_prob.py --sent GS_twitter_demo/sentence.txt --context_prob GS_twitter_demo/bias_context_prob.txt
 ```
-<!-- python GS_cloze_prob.py --sent GS_twitter_demo/sentence.txt --context_prob GS_twitter_demo/ave_bias_context_prob.txt -->
+
 
 ```
 gender score m: 0.0024223817787602246
@@ -197,10 +196,9 @@ sentence: blood makes you related. Loyalty makes you family. [predicted bias-gen
 GT: m
 ```
 
-The GS based Cloze Gender can be adapted for other languages (_e.g._ tweet or short text). Therefore, We also [adopt this score](GS_twitter_demo_jp) to the **Japanese language**. <!-- Please refer to this demo for fast start [huggingface demo (JP)](https://huggingface.co) -->
+The GS based Cloze Gender can be adapted for other languages (_e.g._ tweet or short text). Therefore, We also [adopt this score](GS_twitter_demo_jp) to the **Japanese language**. 
 
-
-
+-->
 
 ## Citation
 
