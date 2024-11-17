@@ -2,6 +2,7 @@
 
  <img src="overview_bias.png"> 
 
+
  
 ## Overview 
 In this paper, we investigate the impact of objects on gender bias in image captioning systems. Our results show that only gender-specific objects have a strong gender bias (_e.g._ <em>woman-lipstick</em>). In addition, 
@@ -9,11 +10,15 @@ In this paper, we investigate the impact of objects on gender bias in image capt
       we observe that our score can measure the bias relation between a caption and its related gender; therefore, our score can be used as an additional metric to the existing Object Gender Co-Occ approach. 
   
 
+
+
+
+
  
  
  This repository contains the  implementation of the paper  [Women Wearing Lipstick: Measuring the Bias Between an Object and Its Related Gender](https://arxiv.org/abs/2310.19130). EMNLP Findings 2023
  
- [![arXiv](https://img.shields.io/badge/arXiv-2310.19130-b31b1b.svg)](https://arxiv.org/abs/2310.19130) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ahmed.jp/project_page/gender_score_2023/index.html)
+ [![arXiv](https://img.shields.io/badge/arXiv-2310.19130-b31b1b.svg)](https://arxiv.org/abs/2310.19130) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ahmed.jp/project_page/gender_score_2023/index.html) [![huggingface](https://img.shields.io/badge/%F0%9F%A4%97-huggingface-yellow)](https://huggingface.co/spaces/AhmedSSabir/Demo-for-Gender-Score-LLAMA-3.2)
  
 
 
