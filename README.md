@@ -23,8 +23,7 @@ In this paper, we investigate the impact of objects on gender bias in image capt
 
 
  ## Quick Start 
-For a quick start please have a look at this [project page](https://ahmed.jp/project_page/gender_score_2023/index.html) 
-and [demo](https://huggingface.co/spaces/AhmedSSabir/Demo-for-Gender-Score), 
+For a quick start please have a look at this [project page](https://ahmed.jp/project_page/gender_score_2023/index.html), [paper demo](https://huggingface.co/spaces/AhmedSSabir/Demo-for-Gender-Score) and recent demo with [LLLAMA-3.2 demo](https://huggingface.co/spaces/AhmedSSabir/Demo-for-Gender-Score-LLAMA-3.2) 
 
 <!-- [huggingface demo (EN)](https://huggingface.co) --> 
  <!-- , and [huggingface demo (JP)](https://huggingface.co) -->
